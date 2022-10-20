@@ -1,45 +1,12 @@
-# wip
+# TN Therapists
 
-[![Compliance](https://github.com/ghostwriter/wip/actions/workflows/compliance.yml/badge.svg)](https://github.com/ghostwriter/wip/actions/workflows/compliance.yml)
-[![Supported PHP Version](https://badgen.net/packagist/php/ghostwriter/wip?color=8892bf)](https://www.php.net/supported-versions)
-[![Type Coverage](https://shepherd.dev/github/ghostwriter/wip/coverage.svg)](https://shepherd.dev/github/ghostwriter/wip)
-[![Latest Version on Packagist](https://badgen.net/packagist/v/ghostwriter/wip)](https://packagist.org/packages/ghostwriter/wip)
-[![Downloads](https://badgen.net/packagist/dt/ghostwriter/wip?color=blue)](https://packagist.org/packages/ghostwriter/wip)
-
-work in progress
-
-> **Warning**
->
-> This project is not finished yet, work in progress.
-
-
-## Installation
-
-You can install the package via composer:
-
-``` bash
-composer require ghostwriter/wip
-```
+{therapists}
 
 ## Usage
 
-```php
-// work in progress
-```
-
-## Testing
-
 ``` bash
-composer test
+php scrape.php && php build.php
 ```
-
-## Changelog
-
-Please see [CHANGELOG.md](./CHANGELOG.md) for more information what has changed recently.
-
-## Security
-
-If you discover any security related issues, please email `nathanael.esayeas@protonmail.com` instead of using the issue tracker.
 
 ## Support
 
@@ -48,7 +15,7 @@ If you discover any security related issues, please email `nathanael.esayeas@pro
 ## Credits
 
 - [Nathanael Esayeas](https://github.com/ghostwriter)
-- [All Contributors](https://github.com/ghostwriter/wip/contributors)
+- [All Contributors](https://github.com/ghostwriter/tn-therapists/contributors)
 
 ## License
 
