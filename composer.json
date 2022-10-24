@@ -5,7 +5,8 @@
     "type": "library",
     "keywords": [
         "ghostwriter",
-        "tn-therapists"
+        "tn-therapists",
+        "black-lives-matter"
     ],
     "authors": [
         {
@@ -31,18 +32,25 @@
     ],
     "require": {
         "php": ">=8.1,<8.3",
-        "ghostwriter/collection": "^0.5.1",
-        "ghostwriter/container": "^1.0.0",
-        "ghostwriter/event-dispatcher": "^1.0.0",
-        "ghostwriter/json": "^1.0.0",
-        "ghostwriter/option": "^1.0.1",
-        "ghostwriter/result": "^1.0.1"
+        "ghostwriter/option": "^1.0",
+        "guzzlehttp/guzzle": "^7.0",
+        "illuminate/container": "*",
+        "illuminate/database": "*",
+        "illuminate/events": "*",
+        "illuminate/filesystem": "*",
+        "illuminate/http": "*",
+        "symfony/css-selector": "^6.1",
+        "symfony/dom-crawler": "^6.1",
+        "symplify/easy-coding-standard": "11.1.10"
     },
-    "require-dev": {},
     "replace": {},
     "minimum-stability": "stable",
     "prefer-stable": true,
-    "autoload": {},
+    "autoload": {
+        "psr-4": {
+            "Ghostwriter\\TnTherapists\\": "."
+        }
+    },
     "config": {
         "allow-plugins": {
             "infection/extension-installer": true
