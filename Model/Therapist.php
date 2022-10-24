@@ -1,4 +1,5 @@
 <?php
+
 declare(strict_types=1);
 
 namespace Ghostwriter\TnTherapists\Model;
@@ -8,7 +9,8 @@ use Illuminate\Database\Eloquent\SoftDeletes;
 
 final class Therapist extends Eloquent
 {
-use SoftDeletes;
+    use SoftDeletes;
+
     protected $table = 'therapists';
 
     protected $fillable = [
@@ -22,6 +24,7 @@ use SoftDeletes;
         'offersOnlineTherapy',
         'acceptingAppointments',
     ];
+
     protected $casts = [
         'id' => 'integer',
     ];
