@@ -2,21 +2,17 @@
 
 {therapists}
 
-## Usage
-
-``` bash
-php scrape.php && php generate.php
-```
-
-## Support
-
-[[`Become a GitHub Sponsor`](https://github.com/sponsors/ghostwriter)]
-
 ## Credits
 
+- [Actionable Steps LLC](actionablesteps.io) @actionablesteps.io
+- [BMHA Nashville](bmhanashville.com) @bmhanashville.com
 - [Nathanael Esayeas](https://github.com/ghostwriter)
 - [All Contributors](https://github.com/ghostwriter/tn-therapists/contributors)
 
 ## License
 
 The BSD-3-Clause. Please see [License File](./LICENSE) for more information.
+
+## Sponsors
+
+[[`Become a GitHub Sponsor`](https://github.com/sponsors/ghostwriter)]
