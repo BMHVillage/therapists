@@ -5,7 +5,7 @@
 ## Usage
 
 ``` bash
-php scrape.php && php build.php
+php scrape.php && php generate.php
 ```
 
 ## Support
