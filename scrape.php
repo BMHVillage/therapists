@@ -14,21 +14,25 @@ use Illuminate\Http\Client\Factory;
 use Symfony\Component\DomCrawler\Crawler;
 
 (static function () {
-    if (file_exists($a = __DIR__ . '/vendor/autoload.php')) {
-        require $a;
-    } elseif (file_exists($a = __DIR__ . '/../../../autoload.php')) {
-        require $a;
-    } elseif (file_exists($a = __DIR__ . '/../vendor/autoload.php')) {
-        require $a;
-    } elseif (file_exists($a = __DIR__ . '/../autoload.php')) {
-        require $a;
-    } else {
+    /** @var null|string $path */
+    $path = array_reduce(
+        [
+            __DIR__ . '/vendor/autoload.php',
+            __DIR__ . '/../autoload.php',
+            __DIR__ . '/../../../autoload.php',
+            __DIR__ . '/../vendor/autoload.php',
+        ],
+        static fn ($carry, $item) => (($carry === null) && file_exists($item)) ? $item : $carry
+    );
+    if ($path === null) {
         fwrite(STDERR, 'Cannot locate autoloader; please run "composer install"' . PHP_EOL);
         exit(1);
     }
+    require $path;
 
     $filesystem = new Filesystem();
     $databasePath = './database.sqlite';
+
     if ($filesystem->missing($databasePath)) {
         $filesystem->put($databasePath, '');
     }
@@ -75,7 +79,7 @@ use Symfony\Component\DomCrawler\Crawler;
 
     $api = 'https://www.psychologytoday.com/us/therapists/tn/nashville';
     $http = new Factory();
-    $page = 25;
+    $page = 10;
 
     do {
         $response = $http->get($api, [
@@ -102,8 +106,8 @@ use Symfony\Component\DomCrawler\Crawler;
                 $location = $node->filter('.profile-location');
                 $location = $location->count()>0 ? $location->text() : null;
 
-                $image = $node->filterXPath('//a/span/img');
-                $image = $image->count()>0 ? $image->attr('data-src') : null;
+                $image = $node->filter('span.profile-image img');
+                $image = ($image->count()>0) ? ($image->attr('src') ?? $image->attr('data-src')) : null;
 
                 $offersOnlineTherapy = $node->filter('.profile-teletherapy');
                 $offersOnlineTherapy = $offersOnlineTherapy->count()>0 ? $offersOnlineTherapy->text() : null;
@@ -114,7 +118,7 @@ use Symfony\Component\DomCrawler\Crawler;
                     [
                         'hash'=> $hash,
                     ],
-                    [
+                    dump([
                         'hash'=> $hash,
                         'title'=>$title,
                         'subtitle'=>$subtitle,
@@ -124,7 +128,7 @@ use Symfony\Component\DomCrawler\Crawler;
                         'location'=>  $location,
                         'offersOnlineTherapy'=>  $offersOnlineTherapy,
                         'acceptingAppointments'=>  $acceptingAppointments,
-                    ]
+                    ])
                 );
             });
     } while (--$page);
