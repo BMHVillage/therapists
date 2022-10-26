@@ -1102,7 +1102,7 @@
     </tr>
     <td style="align-items: center">
         <table style="text-align: center;">
-            <tr><td><img style="height: 180px;" alt="929609" src="https://i1.wp.com/i.imgur.com/D77KqTJ.png"></td></tr>
+            <tr><td><img style="height: 180px;" alt="929609" src="https://i1.wp.com/photos.psychologytoday.com/4c63c1ee-eda3-4c25-82a5-7ec282d7ba0f/1/320x400.jpeg"></td></tr>
             <tr><td style="width: 171px;height: 42px;font-weight: bold">Cedar Tree Wellness Center</td></tr>
         </table>
     </td>
@@ -1300,7 +1300,7 @@
     </tr>
     <td style="align-items: center">
         <table style="text-align: center;">
-            <tr><td><img style="height: 180px;" alt="263217" src="https://i1.wp.com/i.imgur.com/D77KqTJ.png"></td></tr>
+            <tr><td><img style="height: 180px;" alt="263217" src="https://i1.wp.com/photos.psychologytoday.com/3f7eac15-46cd-11ea-a6ad-06142c356176/2/320x400.jpeg"></td></tr>
             <tr><td style="width: 171px;height: 42px;font-weight: bold">Claire Fajardo Belcher</td></tr>
         </table>
     </td>
@@ -1630,7 +1630,7 @@
     </tr>
     <td style="align-items: center">
         <table style="text-align: center;">
-            <tr><td><img style="height: 180px;" alt="857940" src="https://i1.wp.com/i.imgur.com/D77KqTJ.png"></td></tr>
+            <tr><td><img style="height: 180px;" alt="857940" src="https://i1.wp.com/photos.psychologytoday.com/ff184791-61bc-45b2-8ef2-684cea72c679/2/320x400.jpeg"></td></tr>
             <tr><td style="width: 171px;height: 42px;font-weight: bold">Dennis McLeod</td></tr>
         </table>
     </td>
@@ -1861,7 +1861,7 @@
     </tr>
     <td style="align-items: center">
         <table style="text-align: center;">
-            <tr><td><img style="height: 180px;" alt="1042765" src="https://i1.wp.com/i.imgur.com/D77KqTJ.png"></td></tr>
+            <tr><td><img style="height: 180px;" alt="1042765" src="https://i1.wp.com/photos.psychologytoday.com/ed3a20a2-cdae-4306-9721-d4564c00f043/1/320x400.jpeg"></td></tr>
             <tr><td style="width: 171px;height: 42px;font-weight: bold">Dr. Luciana C. Silva</td></tr>
         </table>
     </td>
@@ -2026,7 +2026,7 @@
     </tr>
     <td style="align-items: center">
         <table style="text-align: center;">
-            <tr><td><img style="height: 180px;" alt="952178" src="https://i1.wp.com/i.imgur.com/D77KqTJ.png"></td></tr>
+            <tr><td><img style="height: 180px;" alt="952178" src="https://i1.wp.com/photos.psychologytoday.com/2ea872cd-043b-4cfd-a873-213805cbd697/2/320x400.jpeg"></td></tr>
             <tr><td style="width: 171px;height: 42px;font-weight: bold">Elizabeth M Armstrong</td></tr>
         </table>
     </td>
@@ -2059,7 +2059,7 @@
     </tr>
     <td style="align-items: center">
         <table style="text-align: center;">
-            <tr><td><img style="height: 180px;" alt="1039651" src="https://i1.wp.com/photos.psychologytoday.com/6937a142-50b7-4816-a396-8ecf6609be96/1/320x400.jpeg"></td></tr>
+            <tr><td><img style="height: 180px;" alt="1039651" src="https://i1.wp.com/photos.psychologytoday.com/1e1d269e-2667-424f-ae75-2f523e54b37d/1/320x400.jpeg"></td></tr>
             <tr><td style="width: 171px;height: 42px;font-weight: bold">Emu Aragon</td></tr>
         </table>
     </td>
@@ -2224,7 +2224,7 @@
     </tr>
     <td style="align-items: center">
         <table style="text-align: center;">
-            <tr><td><img style="height: 180px;" alt="134969" src="https://i1.wp.com/i.imgur.com/D77KqTJ.png"></td></tr>
+            <tr><td><img style="height: 180px;" alt="134969" src="https://i1.wp.com/photos.psychologytoday.com/827a43a9-fbfd-4915-9bbd-87b5559700c5/3/320x400.png"></td></tr>
             <tr><td style="width: 171px;height: 42px;font-weight: bold">Forward Counseling</td></tr>
         </table>
     </td>
@@ -2257,7 +2257,7 @@
     </tr>
     <td style="align-items: center">
         <table style="text-align: center;">
-            <tr><td><img style="height: 180px;" alt="715391" src="https://i1.wp.com/i.imgur.com/D77KqTJ.png"></td></tr>
+            <tr><td><img style="height: 180px;" alt="715391" src="https://i1.wp.com/photos.psychologytoday.com/536fb5b6-46cd-11ea-a6ad-06142c356176/3/320x400.jpeg"></td></tr>
             <tr><td style="width: 171px;height: 42px;font-weight: bold">Frank Byndloss</td></tr>
         </table>
     </td>
@@ -2554,7 +2554,7 @@
     </tr>
     <td style="align-items: center">
         <table style="text-align: center;">
-            <tr><td><img style="height: 180px;" alt="876926" src="https://i1.wp.com/i.imgur.com/D77KqTJ.png"></td></tr>
+            <tr><td><img style="height: 180px;" alt="876926" src="https://i1.wp.com/photos.psychologytoday.com/b2f0faa5-7a50-412a-87c9-3d0152f5638e/3/320x400.jpeg"></td></tr>
             <tr><td style="width: 171px;height: 42px;font-weight: bold">Ja-Kay Matheny</td></tr>
         </table>
     </td>
@@ -2587,7 +2587,7 @@
     </tr>
     <td style="align-items: center">
         <table style="text-align: center;">
-            <tr><td><img style="height: 180px;" alt="859409" src="https://i1.wp.com/i.imgur.com/D77KqTJ.png"></td></tr>
+            <tr><td><img style="height: 180px;" alt="859409" src="https://i1.wp.com/photos.psychologytoday.com/26cc80cc-9b37-4afe-8992-953b6e424961/2/320x400.jpeg"></td></tr>
             <tr><td style="width: 171px;height: 42px;font-weight: bold">Jaha Martin</td></tr>
         </table>
     </td>
@@ -2851,7 +2851,7 @@
     </tr>
     <td style="align-items: center">
         <table style="text-align: center;">
-            <tr><td><img style="height: 180px;" alt="877569" src="https://i1.wp.com/i.imgur.com/D77KqTJ.png"></td></tr>
+            <tr><td><img style="height: 180px;" alt="877569" src="https://i1.wp.com/photos.psychologytoday.com/3905c80a-7f22-4db1-83e7-daa1445da32a/2/320x400.jpeg"></td></tr>
             <tr><td style="width: 171px;height: 42px;font-weight: bold">Joenell Hardyway</td></tr>
         </table>
     </td>
@@ -3115,7 +3115,7 @@
     </tr>
     <td style="align-items: center">
         <table style="text-align: center;">
-            <tr><td><img style="height: 180px;" alt="994946" src="https://i1.wp.com/i.imgur.com/D77KqTJ.png"></td></tr>
+            <tr><td><img style="height: 180px;" alt="994946" src="https://i1.wp.com/photos.psychologytoday.com/9bdc1fd8-b7da-4734-82c8-00d81727cadc/2/320x400.jpeg"></td></tr>
             <tr><td style="width: 171px;height: 42px;font-weight: bold">Kelsey Cardin</td></tr>
         </table>
     </td>
@@ -3742,7 +3742,7 @@
     </tr>
     <td style="align-items: center">
         <table style="text-align: center;">
-            <tr><td><img style="height: 180px;" alt="383797" src="https://i1.wp.com/i.imgur.com/D77KqTJ.png"></td></tr>
+            <tr><td><img style="height: 180px;" alt="383797" src="https://i1.wp.com/photos.psychologytoday.com/4ebe7b78-46cd-11ea-a6ad-06142c356176/2/320x400.jpeg"></td></tr>
             <tr><td style="width: 171px;height: 42px;font-weight: bold">Lois C. Kirk</td></tr>
         </table>
     </td>
@@ -3762,6 +3762,39 @@
             <tr style="height: 42px;">
                 <td style="text-align: center;width: 480px;">Office is near: Nashville, TN 37217</td>
                 <td style="text-align: center;width: 480px;">(615) 205-9665 </td>
+            </tr>
+        </table>
+    </td>
+    </tr>
+</table>
+
+<table style="width: 800px; ">
+    <tr>
+    <tr style="height: 42px;">
+        <td style="height: 42px;text-align: center;" colspan="3" rowspan="1">LPC-MHS</td>
+    </tr>
+    <td style="align-items: center">
+        <table style="text-align: center;">
+            <tr><td><img style="height: 180px;" alt="391891" src="https://i1.wp.com/photos.psychologytoday.com/a2e1bfc8-60cb-4cce-9a05-a5b7210b644f/2/320x400.jpeg"></td></tr>
+            <tr><td style="width: 171px;height: 42px;font-weight: bold">Mari Carter</td></tr>
+        </table>
+    </td>
+    <td>
+        <table style="width: 480px;">
+            <tr>
+                <td width="600px">Finding yourself in a place of need or asking for help can be scary, but it can also be a courageous step toward healing mind, body, and soul. I find my passion in helping others who struggle with substance abuse issues, anxiety, depression, grief, self-esteem, and other everyday life challenges. I desire to see each individual grow into his or her full potential through the difficult journey of self awareness, reliance on innate strengths, and the ability to maintain hope in the face of adversity.</td>
+            </tr>
+        </table>
+        <table style="width: 480px;">
+            <tr style="height: 42px;">
+                <td style="text-align: center;width: 480px;">In-person therapy</td>
+                <td style="text-align: center;width: 480px;">Not accepting new clients</td>
+            </tr>
+        </table>
+        <table style="width: 480px;">
+            <tr style="height: 42px;">
+                <td style="text-align: center;width: 480px;">Nashville, TN 37214</td>
+                <td style="text-align: center;width: 480px;">(615) 637-2147 </td>
             </tr>
         </table>
     </td>
@@ -4336,7 +4369,7 @@
     </tr>
     <td style="align-items: center">
         <table style="text-align: center;">
-            <tr><td><img style="height: 180px;" alt="927430" src="https://i1.wp.com/i.imgur.com/D77KqTJ.png"></td></tr>
+            <tr><td><img style="height: 180px;" alt="927430" src="https://i1.wp.com/photos.psychologytoday.com/5ea3a944-751c-46b8-86e2-66a8aa60e771/2/320x400.jpeg"></td></tr>
             <tr><td style="width: 171px;height: 42px;font-weight: bold">Nicole D Smith</td></tr>
         </table>
     </td>
@@ -5029,7 +5062,7 @@
     </tr>
     <td style="align-items: center">
         <table style="text-align: center;">
-            <tr><td><img style="height: 180px;" alt="978842" src="https://i1.wp.com/i.imgur.com/D77KqTJ.png"></td></tr>
+            <tr><td><img style="height: 180px;" alt="978842" src="https://i1.wp.com/photos.psychologytoday.com/5cbb0b09-940a-4ee7-b307-430a46ca37f3/1/320x400.jpeg"></td></tr>
             <tr><td style="width: 171px;height: 42px;font-weight: bold">Sherry McMillan</td></tr>
         </table>
     </td>
@@ -5359,7 +5392,7 @@
     </tr>
     <td style="align-items: center">
         <table style="text-align: center;">
-            <tr><td><img style="height: 180px;" alt="744994" src="https://i1.wp.com/i.imgur.com/D77KqTJ.png"></td></tr>
+            <tr><td><img style="height: 180px;" alt="744994" src="https://i1.wp.com/photos.psychologytoday.com/3e6934f1-700b-47da-815e-387a5fc40f42/3/320x400.jpeg"></td></tr>
             <tr><td style="width: 171px;height: 42px;font-weight: bold">Tammara Kamei</td></tr>
         </table>
     </td>
@@ -5590,7 +5623,7 @@
     </tr>
     <td style="align-items: center">
         <table style="text-align: center;">
-            <tr><td><img style="height: 180px;" alt="923680" src="https://i1.wp.com/i.imgur.com/D77KqTJ.png"></td></tr>
+            <tr><td><img style="height: 180px;" alt="923680" src="https://i1.wp.com/photos.psychologytoday.com/e6ec3603-fda2-4591-a5ae-7d2612fdb885/1/320x400.jpeg"></td></tr>
             <tr><td style="width: 171px;height: 42px;font-weight: bold">Theraplaybook</td></tr>
         </table>
     </td>
@@ -5788,7 +5821,7 @@
     </tr>
     <td style="align-items: center">
         <table style="text-align: center;">
-            <tr><td><img style="height: 180px;" alt="733809" src="https://i1.wp.com/i.imgur.com/D77KqTJ.png"></td></tr>
+            <tr><td><img style="height: 180px;" alt="733809" src="https://i1.wp.com/photos.psychologytoday.com/480980a3-29b2-4fb3-a21d-5786635167c8/2/320x400.jpeg"></td></tr>
             <tr><td style="width: 171px;height: 42px;font-weight: bold">Truth Reveal Recover Health and Wellness, LLC</td></tr>
         </table>
     </td>
@@ -6015,8 +6048,8 @@
 
 ## Credits
 
-- [Actionable Steps LLC](actionablesteps.io) @actionablesteps.io
-- [BMHA Nashville](bmhanashville.com) @bmhanashville.com
+- [Actionable Steps LLC](https://actionablesteps.io) @actionablesteps
+- [BMHA Nashville](https://bmhanashville.com) @bmhanashville
 - [Nathanael Esayeas](https://github.com/ghostwriter)
 - [All Contributors](https://github.com/ghostwriter/tn-therapists/contributors)
 
