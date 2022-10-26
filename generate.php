@@ -11,18 +11,21 @@ use Illuminate\Events\Dispatcher;
 use Illuminate\Filesystem\Filesystem;
 
 (static function () {
-    if (file_exists($a = __DIR__ . '/vendor/autoload.php')) {
-        require $a;
-    } elseif (file_exists($a = __DIR__ . '/../../../autoload.php')) {
-        require $a;
-    } elseif (file_exists($a = __DIR__ . '/../vendor/autoload.php')) {
-        require $a;
-    } elseif (file_exists($a = __DIR__ . '/../autoload.php')) {
-        require $a;
-    } else {
+    /** @var null|string $path */
+    $path = array_reduce(
+        [
+            __DIR__ . '/vendor/autoload.php',
+            __DIR__ . '/../../../autoload.php',
+            __DIR__ . '/../vendor/autoload.php',
+            __DIR__ . '/../autoload.php',
+        ],
+        static fn ($carry, $item) => (($carry === null) && file_exists($item)) ? $item : $carry
+    );
+    if ($path === null) {
         fwrite(STDERR, 'Cannot locate autoloader; please run "composer install"' . PHP_EOL);
         exit(1);
     }
+    require $path;
 
     $filesystem = new Filesystem();
 
