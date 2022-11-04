@@ -28,4 +28,18 @@ final class Therapist extends Eloquent
     protected $casts = [
         'id' => 'integer',
     ];
+
+    public function toArray(): array
+    {
+        return collect(parent::toArray())->only([
+            'title',
+            'subtitle',
+            'image',
+            'contact',
+            'statement',
+            'location',
+            'offersOnlineTherapy',
+            'acceptingAppointments',
+        ])->toArray();
+    }
 }
