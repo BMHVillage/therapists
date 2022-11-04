@@ -128,8 +128,8 @@ use Symfony\Component\DomCrawler\Crawler;
                             $image ??'https://i.imgur.com/D77KqTJ.png'
                         ),
                         'statement'=> $statement,
-                        'contact'=> str_replace(' ', '', $contact),
-                        'location'=>  $location,
+                        'contact'=> trim(str_replace(' ', '', $contact)),
+                        'location'=> trim(str_replace('Office is near:', '', $location)),
                         'offersOnlineTherapy'=>  ($offersOnlineTherapy === 'Offers online therapy') ?
                             'In-person/Online therapy' :
                             'In-person therapy',
