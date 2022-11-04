@@ -122,12 +122,16 @@ use Symfony\Component\DomCrawler\Crawler;
                         'hash'=> $hash,
                         'title'=>$title,
                         'subtitle'=>$subtitle,
-                        'image' => $image,
+                        'image' => str_replace(
+                            'https://',
+                            'https://i1.wp.com/',
+                            $image ??'https://i.imgur.com/D77KqTJ.png'
+                        ),
                         'statement'=> $statement,
-                        'contact'=> $contact,
+                        'contact'=> str_replace(' ','', $contact),
                         'location'=>  $location,
                         'offersOnlineTherapy'=>  $offersOnlineTherapy,
-                        'acceptingAppointments'=>  $acceptingAppointments,
+                        'acceptingAppointments'=>  $acceptingAppointments ?? 'Accepting clients',
                     ])
                 );
             });
