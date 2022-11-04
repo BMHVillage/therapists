@@ -64,7 +64,7 @@
         </table>
         <table style="width: 480px;">
             <tr style="height: 42px;">
-                <td style="text-align: center;width: 480px;">Office is near: Nashville, TN 37211</td>
+                <td style="text-align: center;width: 480px;">Nashville, TN 37211</td>
                 <td style="text-align: center;width: 480px;">(615) 265-6398</td>
             </tr>
         </table>
@@ -124,7 +124,7 @@
         </table>
         <table style="width: 480px;">
             <tr style="height: 42px;">
-                <td style="text-align: center;width: 480px;">Offers online therapy</td>
+                <td style="text-align: center;width: 480px;">In-person/Online therapy</td>
                 <td style="text-align: center;width: 480px;">Accepting clients</td>
             </tr>
         </table>
@@ -229,7 +229,7 @@
         </table>
         <table style="width: 480px;">
             <tr style="height: 42px;">
-                <td style="text-align: center;width: 480px;">Office is near: Nashville, TN 37209</td>
+                <td style="text-align: center;width: 480px;">Nashville, TN 37209</td>
                 <td style="text-align: center;width: 480px;">(615) 685-4112</td>
             </tr>
         </table>
@@ -262,7 +262,7 @@
         </table>
         <table style="width: 480px;">
             <tr style="height: 42px;">
-                <td style="text-align: center;width: 480px;">Office is near: Nashville, TN 37204</td>
+                <td style="text-align: center;width: 480px;">Nashville, TN 37204</td>
                 <td style="text-align: center;width: 480px;">(615) 570-3520</td>
             </tr>
         </table>
@@ -295,7 +295,7 @@
         </table>
         <table style="width: 480px;">
             <tr style="height: 42px;">
-                <td style="text-align: center;width: 480px;">Office is near: Nashville, TN 37206</td>
+                <td style="text-align: center;width: 480px;">Nashville, TN 37206</td>
                 <td style="text-align: center;width: 480px;">(615) 265-6218</td>
             </tr>
         </table>
@@ -394,7 +394,7 @@
         </table>
         <table style="width: 480px;">
             <tr style="height: 42px;">
-                <td style="text-align: center;width: 480px;">Office is near: Nashville, TN 37241</td>
+                <td style="text-align: center;width: 480px;">Nashville, TN 37241</td>
                 <td style="text-align: center;width: 480px;">(423) 537-4803</td>
             </tr>
         </table>
@@ -526,7 +526,7 @@
         </table>
         <table style="width: 480px;">
             <tr style="height: 42px;">
-                <td style="text-align: center;width: 480px;">Office is near: Nashville, TN 37214</td>
+                <td style="text-align: center;width: 480px;">Nashville, TN 37214</td>
                 <td style="text-align: center;width: 480px;">(404) 882-6483</td>
             </tr>
         </table>
@@ -559,7 +559,7 @@
         </table>
         <table style="width: 480px;">
             <tr style="height: 42px;">
-                <td style="text-align: center;width: 480px;">Office is near: Nashville, TN 37218</td>
+                <td style="text-align: center;width: 480px;">Nashville, TN 37218</td>
                 <td style="text-align: center;width: 480px;">(615) 800-8163</td>
             </tr>
         </table>
@@ -658,7 +658,7 @@
         </table>
         <table style="width: 480px;">
             <tr style="height: 42px;">
-                <td style="text-align: center;width: 480px;">Office is near: Nashville, TN 37206</td>
+                <td style="text-align: center;width: 480px;">Nashville, TN 37206</td>
                 <td style="text-align: center;width: 480px;">(615) 502-4942</td>
             </tr>
         </table>
@@ -751,7 +751,7 @@
         </table>
         <table style="width: 480px;">
             <tr style="height: 42px;">
-                <td style="text-align: center;width: 480px;"></td>
+                <td style="text-align: center;width: 480px;">In-person therapy</td>
                 <td style="text-align: center;width: 480px;">Accepting clients</td>
             </tr>
         </table>
@@ -790,7 +790,7 @@
         </table>
         <table style="width: 480px;">
             <tr style="height: 42px;">
-                <td style="text-align: center;width: 480px;">Office is near: Nashville, TN 37203</td>
+                <td style="text-align: center;width: 480px;">Nashville, TN 37203</td>
                 <td style="text-align: center;width: 480px;">(731) 924-6191</td>
             </tr>
         </table>
@@ -817,7 +817,7 @@
         </table>
         <table style="width: 480px;">
             <tr style="height: 42px;">
-                <td style="text-align: center;width: 480px;">Offers online therapy</td>
+                <td style="text-align: center;width: 480px;">In-person/Online therapy</td>
                 <td style="text-align: center;width: 480px;">Accepting clients</td>
             </tr>
         </table>
@@ -856,7 +856,7 @@
         </table>
         <table style="width: 480px;">
             <tr style="height: 42px;">
-                <td style="text-align: center;width: 480px;">Office is near: Nashville, TN 37204</td>
+                <td style="text-align: center;width: 480px;">Nashville, TN 37204</td>
                 <td style="text-align: center;width: 480px;">(901) 329-3771</td>
             </tr>
         </table>
@@ -916,13 +916,13 @@
         </table>
         <table style="width: 480px;">
             <tr style="height: 42px;">
-                <td style="text-align: center;width: 480px;">Offers online therapy</td>
+                <td style="text-align: center;width: 480px;">In-person/Online therapy</td>
                 <td style="text-align: center;width: 480px;">Accepting clients</td>
             </tr>
         </table>
         <table style="width: 480px;">
             <tr style="height: 42px;">
-                <td style="text-align: center;width: 480px;">Office is near: Nashville, TN 37217</td>
+                <td style="text-align: center;width: 480px;">Nashville, TN 37217</td>
                 <td style="text-align: center;width: 480px;">(615) 270-4173</td>
             </tr>
         </table>
@@ -955,7 +955,7 @@
         </table>
         <table style="width: 480px;">
             <tr style="height: 42px;">
-                <td style="text-align: center;width: 480px;">Office is near: Nashville, TN 37201</td>
+                <td style="text-align: center;width: 480px;">Nashville, TN 37201</td>
                 <td style="text-align: center;width: 480px;">(901) 459-2940</td>
             </tr>
         </table>
@@ -988,7 +988,7 @@
         </table>
         <table style="width: 480px;">
             <tr style="height: 42px;">
-                <td style="text-align: center;width: 480px;">Office is near: Nashville, TN 37204</td>
+                <td style="text-align: center;width: 480px;">Nashville, TN 37204</td>
                 <td style="text-align: center;width: 480px;">(615) 685-2009</td>
             </tr>
         </table>
@@ -1021,7 +1021,7 @@
         </table>
         <table style="width: 480px;">
             <tr style="height: 42px;">
-                <td style="text-align: center;width: 480px;">Office is near: Nashville, TN 37201</td>
+                <td style="text-align: center;width: 480px;">Nashville, TN 37201</td>
                 <td style="text-align: center;width: 480px;">(615) 265-6129</td>
             </tr>
         </table>
@@ -1120,7 +1120,7 @@
         </table>
         <table style="width: 480px;">
             <tr style="height: 42px;">
-                <td style="text-align: center;width: 480px;">Office is near: Nashville, TN 37203</td>
+                <td style="text-align: center;width: 480px;">Nashville, TN 37203</td>
                 <td style="text-align: center;width: 480px;">(901) 350-6728</td>
             </tr>
         </table>
@@ -1219,7 +1219,7 @@
         </table>
         <table style="width: 480px;">
             <tr style="height: 42px;">
-                <td style="text-align: center;width: 480px;">Office is near: Nashville, TN 37214</td>
+                <td style="text-align: center;width: 480px;">Nashville, TN 37214</td>
                 <td style="text-align: center;width: 480px;">(615) 745-1138</td>
             </tr>
         </table>
@@ -1318,7 +1318,7 @@
         </table>
         <table style="width: 480px;">
             <tr style="height: 42px;">
-                <td style="text-align: center;width: 480px;">Office is near: Nashville, TN 37201</td>
+                <td style="text-align: center;width: 480px;">Nashville, TN 37201</td>
                 <td style="text-align: center;width: 480px;">(267) 214-2884</td>
             </tr>
         </table>
@@ -1351,7 +1351,7 @@
         </table>
         <table style="width: 480px;">
             <tr style="height: 42px;">
-                <td style="text-align: center;width: 480px;">Office is near: Nashville, TN 37201</td>
+                <td style="text-align: center;width: 480px;">Nashville, TN 37201</td>
                 <td style="text-align: center;width: 480px;">(865) 253-8857</td>
             </tr>
         </table>
@@ -1417,7 +1417,7 @@
         </table>
         <table style="width: 480px;">
             <tr style="height: 42px;">
-                <td style="text-align: center;width: 480px;">Office is near: Nashville, TN 37216</td>
+                <td style="text-align: center;width: 480px;">Nashville, TN 37216</td>
                 <td style="text-align: center;width: 480px;">(757) 740-0536</td>
             </tr>
         </table>
@@ -1444,13 +1444,13 @@
         </table>
         <table style="width: 480px;">
             <tr style="height: 42px;">
-                <td style="text-align: center;width: 480px;"></td>
+                <td style="text-align: center;width: 480px;">In-person therapy</td>
                 <td style="text-align: center;width: 480px;">Accepting clients</td>
             </tr>
         </table>
         <table style="width: 480px;">
             <tr style="height: 42px;">
-                <td style="text-align: center;width: 480px;">Office is near: Nashville, TN 37215</td>
+                <td style="text-align: center;width: 480px;">Nashville, TN 37215</td>
                 <td style="text-align: center;width: 480px;">(931) 299-2899</td>
             </tr>
         </table>
@@ -1582,7 +1582,7 @@
         </table>
         <table style="width: 480px;">
             <tr style="height: 42px;">
-                <td style="text-align: center;width: 480px;">Office is near: Nashville, TN 37212</td>
+                <td style="text-align: center;width: 480px;">Nashville, TN 37212</td>
                 <td style="text-align: center;width: 480px;">(631) 459-4295</td>
             </tr>
         </table>
@@ -1615,7 +1615,7 @@
         </table>
         <table style="width: 480px;">
             <tr style="height: 42px;">
-                <td style="text-align: center;width: 480px;">Office is near: Nashville, TN 37201</td>
+                <td style="text-align: center;width: 480px;">Nashville, TN 37201</td>
                 <td style="text-align: center;width: 480px;">(901) 460-3447</td>
             </tr>
         </table>
@@ -1648,7 +1648,7 @@
         </table>
         <table style="width: 480px;">
             <tr style="height: 42px;">
-                <td style="text-align: center;width: 480px;">Office is near: Nashville, TN 37204</td>
+                <td style="text-align: center;width: 480px;">Nashville, TN 37204</td>
                 <td style="text-align: center;width: 480px;">(352) 290-4294</td>
             </tr>
         </table>
@@ -1813,7 +1813,7 @@
         </table>
         <table style="width: 480px;">
             <tr style="height: 42px;">
-                <td style="text-align: center;width: 480px;">Office is near: Nashville, TN 37208</td>
+                <td style="text-align: center;width: 480px;">Nashville, TN 37208</td>
                 <td style="text-align: center;width: 480px;">(615) 323-2108</td>
             </tr>
         </table>
@@ -1879,7 +1879,7 @@
         </table>
         <table style="width: 480px;">
             <tr style="height: 42px;">
-                <td style="text-align: center;width: 480px;">Office is near: Nashville, TN 37213</td>
+                <td style="text-align: center;width: 480px;">Nashville, TN 37213</td>
                 <td style="text-align: center;width: 480px;">(615) 908-2604</td>
             </tr>
         </table>
@@ -1906,7 +1906,7 @@
         </table>
         <table style="width: 480px;">
             <tr style="height: 42px;">
-                <td style="text-align: center;width: 480px;">Offers online therapy</td>
+                <td style="text-align: center;width: 480px;">In-person/Online therapy</td>
                 <td style="text-align: center;width: 480px;">Accepting clients</td>
             </tr>
         </table>
@@ -1945,7 +1945,7 @@
         </table>
         <table style="width: 480px;">
             <tr style="height: 42px;">
-                <td style="text-align: center;width: 480px;">Office is near: Nashville, TN 37201</td>
+                <td style="text-align: center;width: 480px;">Nashville, TN 37201</td>
                 <td style="text-align: center;width: 480px;">(205) 964-5629</td>
             </tr>
         </table>
@@ -2143,7 +2143,7 @@
         </table>
         <table style="width: 480px;">
             <tr style="height: 42px;">
-                <td style="text-align: center;width: 480px;">Office is near: Nashville, TN 37201</td>
+                <td style="text-align: center;width: 480px;">Nashville, TN 37201</td>
                 <td style="text-align: center;width: 480px;">(423) 592-8163</td>
             </tr>
         </table>
@@ -2203,7 +2203,7 @@
         </table>
         <table style="width: 480px;">
             <tr style="height: 42px;">
-                <td style="text-align: center;width: 480px;">Offers online therapy</td>
+                <td style="text-align: center;width: 480px;">In-person/Online therapy</td>
                 <td style="text-align: center;width: 480px;">Accepting clients</td>
             </tr>
         </table>
@@ -2242,7 +2242,7 @@
         </table>
         <table style="width: 480px;">
             <tr style="height: 42px;">
-                <td style="text-align: center;width: 480px;">Office is near: Nashville, TN 37203</td>
+                <td style="text-align: center;width: 480px;">Nashville, TN 37203</td>
                 <td style="text-align: center;width: 480px;">(615) 903-8064</td>
             </tr>
         </table>
@@ -2275,7 +2275,7 @@
         </table>
         <table style="width: 480px;">
             <tr style="height: 42px;">
-                <td style="text-align: center;width: 480px;">Office is near: Nashville, TN 37203</td>
+                <td style="text-align: center;width: 480px;">Nashville, TN 37203</td>
                 <td style="text-align: center;width: 480px;">(615) 205-9182</td>
             </tr>
         </table>
@@ -2440,7 +2440,7 @@
         </table>
         <table style="width: 480px;">
             <tr style="height: 42px;">
-                <td style="text-align: center;width: 480px;">Office is near: Nashville, TN 37214</td>
+                <td style="text-align: center;width: 480px;">Nashville, TN 37214</td>
                 <td style="text-align: center;width: 480px;">(931) 442-7021</td>
             </tr>
         </table>
@@ -2671,7 +2671,7 @@
         </table>
         <table style="width: 480px;">
             <tr style="height: 42px;">
-                <td style="text-align: center;width: 480px;">Office is near: Nashville, TN 37206</td>
+                <td style="text-align: center;width: 480px;">Nashville, TN 37206</td>
                 <td style="text-align: center;width: 480px;">(615) 492-8136</td>
             </tr>
         </table>
@@ -2704,7 +2704,7 @@
         </table>
         <table style="width: 480px;">
             <tr style="height: 42px;">
-                <td style="text-align: center;width: 480px;">Office is near: Nashville, TN 37212</td>
+                <td style="text-align: center;width: 480px;">Nashville, TN 37212</td>
                 <td style="text-align: center;width: 480px;">(931) 202-9219</td>
             </tr>
         </table>
@@ -2764,7 +2764,7 @@
         </table>
         <table style="width: 480px;">
             <tr style="height: 42px;">
-                <td style="text-align: center;width: 480px;">Offers online therapy</td>
+                <td style="text-align: center;width: 480px;">In-person/Online therapy</td>
                 <td style="text-align: center;width: 480px;">Accepting clients</td>
             </tr>
         </table>
@@ -2803,7 +2803,7 @@
         </table>
         <table style="width: 480px;">
             <tr style="height: 42px;">
-                <td style="text-align: center;width: 480px;">Office is near: Nashville, TN 37203</td>
+                <td style="text-align: center;width: 480px;">Nashville, TN 37203</td>
                 <td style="text-align: center;width: 480px;">(615) 229-6205</td>
             </tr>
         </table>
@@ -2830,7 +2830,7 @@
         </table>
         <table style="width: 480px;">
             <tr style="height: 42px;">
-                <td style="text-align: center;width: 480px;"></td>
+                <td style="text-align: center;width: 480px;">In-person therapy</td>
                 <td style="text-align: center;width: 480px;">Not accepting new clients</td>
             </tr>
         </table>
@@ -2869,7 +2869,7 @@
         </table>
         <table style="width: 480px;">
             <tr style="height: 42px;">
-                <td style="text-align: center;width: 480px;">Office is near: Nashville, TN 37215</td>
+                <td style="text-align: center;width: 480px;">Nashville, TN 37215</td>
                 <td style="text-align: center;width: 480px;">(629) 205-0602</td>
             </tr>
         </table>
@@ -2902,7 +2902,7 @@
         </table>
         <table style="width: 480px;">
             <tr style="height: 42px;">
-                <td style="text-align: center;width: 480px;">Office is near: Nashville, TN 37217</td>
+                <td style="text-align: center;width: 480px;">Nashville, TN 37217</td>
                 <td style="text-align: center;width: 480px;">(423) 621-4249</td>
             </tr>
         </table>
@@ -3016,7 +3016,7 @@
     </tr>
     <td style="align-items: center">
         <table style="text-align: center;">
-            <tr><td><img style="height: 180px;" alt="224213" src="https://photos.psychologytoday.com/3ede8b2e-46cd-11ea-a6ad-06142c356176/3/320x400.jpeg"></td></tr>
+            <tr><td><img style="height: 180px;" alt="224213" src="https://i1.wp.com/photos.psychologytoday.com/3ede8b2e-46cd-11ea-a6ad-06142c356176/3/320x400.jpeg"></td></tr>
             <tr><td style="width: 171px;height: 42px;font-weight: bold">Julie Cousin</td></tr>
         </table>
     </td>
@@ -3028,7 +3028,7 @@
         </table>
         <table style="width: 480px;">
             <tr style="height: 42px;">
-                <td style="text-align: center;width: 480px;">Offers online therapy</td>
+                <td style="text-align: center;width: 480px;">In-person/Online therapy</td>
                 <td style="text-align: center;width: 480px;">Accepting clients</td>
             </tr>
         </table>
@@ -3067,7 +3067,7 @@
         </table>
         <table style="width: 480px;">
             <tr style="height: 42px;">
-                <td style="text-align: center;width: 480px;">Office is near: Nashville, TN 37208</td>
+                <td style="text-align: center;width: 480px;">Nashville, TN 37208</td>
                 <td style="text-align: center;width: 480px;">(931) 263-1714</td>
             </tr>
         </table>
@@ -3166,7 +3166,7 @@
         </table>
         <table style="width: 480px;">
             <tr style="height: 42px;">
-                <td style="text-align: center;width: 480px;">Office is near: Nashville, TN 37250</td>
+                <td style="text-align: center;width: 480px;">Nashville, TN 37250</td>
                 <td style="text-align: center;width: 480px;">(901) 446-1891</td>
             </tr>
         </table>
@@ -3232,7 +3232,7 @@
         </table>
         <table style="width: 480px;">
             <tr style="height: 42px;">
-                <td style="text-align: center;width: 480px;">Office is near: Nashville, TN 37201</td>
+                <td style="text-align: center;width: 480px;"> Nashville, TN 37201</td>
                 <td style="text-align: center;width: 480px;">(615) 380-1651</td>
             </tr>
         </table>
@@ -3298,7 +3298,7 @@
         </table>
         <table style="width: 480px;">
             <tr style="height: 42px;">
-                <td style="text-align: center;width: 480px;">Office is near: Nashville, TN 37211</td>
+                <td style="text-align: center;width: 480px;">Nashville, TN 37211</td>
                 <td style="text-align: center;width: 480px;">(901) 446-4186</td>
             </tr>
         </table>
@@ -3331,7 +3331,7 @@
         </table>
         <table style="width: 480px;">
             <tr style="height: 42px;">
-                <td style="text-align: center;width: 480px;">Office is near: Nashville, TN 37203</td>
+                <td style="text-align: center;width: 480px;">Nashville, TN 37203</td>
                 <td style="text-align: center;width: 480px;">(423) 405-3110</td>
             </tr>
         </table>
@@ -3391,7 +3391,7 @@
         </table>
         <table style="width: 480px;">
             <tr style="height: 42px;">
-                <td style="text-align: center;width: 480px;">Offers online therapy</td>
+                <td style="text-align: center;width: 480px;">In-person/Online therapy</td>
                 <td style="text-align: center;width: 480px;">Accepting clients</td>
             </tr>
         </table>
@@ -3430,7 +3430,7 @@
         </table>
         <table style="width: 480px;">
             <tr style="height: 42px;">
-                <td style="text-align: center;width: 480px;">Office is near: Nashville, TN 37201</td>
+                <td style="text-align: center;width: 480px;">Nashville, TN 37201</td>
                 <td style="text-align: center;width: 480px;">(615) 903-5793</td>
             </tr>
         </table>
@@ -3523,13 +3523,13 @@
         </table>
         <table style="width: 480px;">
             <tr style="height: 42px;">
-                <td style="text-align: center;width: 480px;">Offers online therapy</td>
+                <td style="text-align: center;width: 480px;">In-person/Online therapy</td>
                 <td style="text-align: center;width: 480px;">Accepting clients</td>
             </tr>
         </table>
         <table style="width: 480px;">
             <tr style="height: 42px;">
-                <td style="text-align: center;width: 480px;">Office is near: Nashville, TN 37208</td>
+                <td style="text-align: center;width: 480px;">Nashville, TN 37208</td>
                 <td style="text-align: center;width: 480px;">(615) 576-8406</td>
             </tr>
         </table>
@@ -3562,7 +3562,7 @@
         </table>
         <table style="width: 480px;">
             <tr style="height: 42px;">
-                <td style="text-align: center;width: 480px;">Office is near: Nashville, TN 37204</td>
+                <td style="text-align: center;width: 480px;">Nashville, TN 37204</td>
                 <td style="text-align: center;width: 480px;">(615) 570-3144</td>
             </tr>
         </table>
@@ -3661,7 +3661,7 @@
         </table>
         <table style="width: 480px;">
             <tr style="height: 42px;">
-                <td style="text-align: center;width: 480px;">Office is near: Nashville, TN 37203</td>
+                <td style="text-align: center;width: 480px;">Nashville, TN 37203</td>
                 <td style="text-align: center;width: 480px;">(510) 257-9472</td>
             </tr>
         </table>
@@ -3727,7 +3727,7 @@
         </table>
         <table style="width: 480px;">
             <tr style="height: 42px;">
-                <td style="text-align: center;width: 480px;">Office is near: Nashville, TN 37218</td>
+                <td style="text-align: center;width: 480px;">Nashville, TN 37218</td>
                 <td style="text-align: center;width: 480px;">(901) 254-8310</td>
             </tr>
         </table>
@@ -3760,7 +3760,7 @@
         </table>
         <table style="width: 480px;">
             <tr style="height: 42px;">
-                <td style="text-align: center;width: 480px;">Office is near: Nashville, TN 37217</td>
+                <td style="text-align: center;width: 480px;">Nashville, TN 37217</td>
                 <td style="text-align: center;width: 480px;">(615) 442-7106</td>
             </tr>
         </table>
@@ -3859,7 +3859,7 @@
         </table>
         <table style="width: 480px;">
             <tr style="height: 42px;">
-                <td style="text-align: center;width: 480px;">Office is near: Nashville, TN 37217</td>
+                <td style="text-align: center;width: 480px;">Nashville, TN 37217</td>
                 <td style="text-align: center;width: 480px;">(615) 205-9665</td>
             </tr>
         </table>
@@ -3925,7 +3925,7 @@
         </table>
         <table style="width: 480px;">
             <tr style="height: 42px;">
-                <td style="text-align: center;width: 480px;">Office is near: Nashville, TN 37206</td>
+                <td style="text-align: center;width: 480px;">Nashville, TN 37206</td>
                 <td style="text-align: center;width: 480px;">(615) 645-2670</td>
             </tr>
         </table>
@@ -3958,7 +3958,7 @@
         </table>
         <table style="width: 480px;">
             <tr style="height: 42px;">
-                <td style="text-align: center;width: 480px;">Office is near: Nashville, TN 37216</td>
+                <td style="text-align: center;width: 480px;">Nashville, TN 37216</td>
                 <td style="text-align: center;width: 480px;">(615) 237-5045</td>
             </tr>
         </table>
@@ -4024,7 +4024,7 @@
         </table>
         <table style="width: 480px;">
             <tr style="height: 42px;">
-                <td style="text-align: center;width: 480px;">Office is near: Nashville, TN 37215</td>
+                <td style="text-align: center;width: 480px;">Nashville, TN 37215</td>
                 <td style="text-align: center;width: 480px;">(615) 645-1602</td>
             </tr>
         </table>
@@ -4150,7 +4150,7 @@
         </table>
         <table style="width: 480px;">
             <tr style="height: 42px;">
-                <td style="text-align: center;width: 480px;">Offers online therapy</td>
+                <td style="text-align: center;width: 480px;">In-person/Online therapy</td>
                 <td style="text-align: center;width: 480px;">Accepting clients</td>
             </tr>
         </table>
@@ -4189,7 +4189,7 @@
         </table>
         <table style="width: 480px;">
             <tr style="height: 42px;">
-                <td style="text-align: center;width: 480px;">Office is near: Nashville, TN 37212</td>
+                <td style="text-align: center;width: 480px;">Nashville, TN 37212</td>
                 <td style="text-align: center;width: 480px;">(615) 908-2271</td>
             </tr>
         </table>
@@ -4255,7 +4255,7 @@
         </table>
         <table style="width: 480px;">
             <tr style="height: 42px;">
-                <td style="text-align: center;width: 480px;">Office is near: Nashville, TN 37211</td>
+                <td style="text-align: center;width: 480px;">Nashville, TN 37211</td>
                 <td style="text-align: center;width: 480px;">(615) 437-4704</td>
             </tr>
         </table>
@@ -4288,7 +4288,7 @@
         </table>
         <table style="width: 480px;">
             <tr style="height: 42px;">
-                <td style="text-align: center;width: 480px;">Office is near: Nashville, TN 37202</td>
+                <td style="text-align: center;width: 480px;">Nashville, TN 37202</td>
                 <td style="text-align: center;width: 480px;">(901) 350-4703</td>
             </tr>
         </table>
@@ -4387,7 +4387,7 @@
         </table>
         <table style="width: 480px;">
             <tr style="height: 42px;">
-                <td style="text-align: center;width: 480px;">Office is near: Nashville, TN 37237</td>
+                <td style="text-align: center;width: 480px;">Nashville, TN 37237</td>
                 <td style="text-align: center;width: 480px;">(423) 482-8497</td>
             </tr>
         </table>
@@ -4420,7 +4420,7 @@
         </table>
         <table style="width: 480px;">
             <tr style="height: 42px;">
-                <td style="text-align: center;width: 480px;">Office is near: Nashville, TN 37217</td>
+                <td style="text-align: center;width: 480px;">Nashville, TN 37217</td>
                 <td style="text-align: center;width: 480px;">(615) 455-3227</td>
             </tr>
         </table>
@@ -4519,7 +4519,7 @@
         </table>
         <table style="width: 480px;">
             <tr style="height: 42px;">
-                <td style="text-align: center;width: 480px;">Office is near: Nashville, TN 37201</td>
+                <td style="text-align: center;width: 480px;">Nashville, TN 37201</td>
                 <td style="text-align: center;width: 480px;">(901) 499-4196</td>
             </tr>
         </table>
@@ -4552,7 +4552,7 @@
         </table>
         <table style="width: 480px;">
             <tr style="height: 42px;">
-                <td style="text-align: center;width: 480px;">Office is near: Nashville, TN 37211</td>
+                <td style="text-align: center;width: 480px;">Nashville, TN 37211</td>
                 <td style="text-align: center;width: 480px;">(423) 205-4871</td>
             </tr>
         </table>
@@ -4579,7 +4579,7 @@
         </table>
         <table style="width: 480px;">
             <tr style="height: 42px;">
-                <td style="text-align: center;width: 480px;">Offers online therapy</td>
+                <td style="text-align: center;width: 480px;">In-person/Online therapy</td>
                 <td style="text-align: center;width: 480px;">Accepting clients</td>
             </tr>
         </table>
@@ -4684,7 +4684,7 @@
         </table>
         <table style="width: 480px;">
             <tr style="height: 42px;">
-                <td style="text-align: center;width: 480px;">Office is near: Nashville, TN 37201</td>
+                <td style="text-align: center;width: 480px;">Nashville, TN 37201</td>
                 <td style="text-align: center;width: 480px;">(615) 283-7320</td>
             </tr>
         </table>
@@ -4783,7 +4783,7 @@
         </table>
         <table style="width: 480px;">
             <tr style="height: 42px;">
-                <td style="text-align: center;width: 480px;">Office is near: Nashville, TN 37201</td>
+                <td style="text-align: center;width: 480px;">Nashville, TN 37201</td>
                 <td style="text-align: center;width: 480px;">(901) 665-2656</td>
             </tr>
         </table>
@@ -4810,7 +4810,7 @@
         </table>
         <table style="width: 480px;">
             <tr style="height: 42px;">
-                <td style="text-align: center;width: 480px;"></td>
+                <td style="text-align: center;width: 480px;">In-person therapy</td>
                 <td style="text-align: center;width: 480px;">Not accepting new clients</td>
             </tr>
         </table>
@@ -4849,7 +4849,7 @@
         </table>
         <table style="width: 480px;">
             <tr style="height: 42px;">
-                <td style="text-align: center;width: 480px;">Office is near: Nashville, TN 37201</td>
+                <td style="text-align: center;width: 480px;">Nashville, TN 37201</td>
                 <td style="text-align: center;width: 480px;">(931) 345-4704</td>
             </tr>
         </table>
@@ -4882,7 +4882,7 @@
         </table>
         <table style="width: 480px;">
             <tr style="height: 42px;">
-                <td style="text-align: center;width: 480px;">Office is near: Nashville, TN 37201</td>
+                <td style="text-align: center;width: 480px;">Nashville, TN 37201</td>
                 <td style="text-align: center;width: 480px;">(615) 282-5254</td>
             </tr>
         </table>
@@ -4975,7 +4975,7 @@
         </table>
         <table style="width: 480px;">
             <tr style="height: 42px;">
-                <td style="text-align: center;width: 480px;">Offers online therapy</td>
+                <td style="text-align: center;width: 480px;">In-person/Online therapy</td>
                 <td style="text-align: center;width: 480px;">Accepting clients</td>
             </tr>
         </table>
@@ -5014,7 +5014,7 @@
         </table>
         <table style="width: 480px;">
             <tr style="height: 42px;">
-                <td style="text-align: center;width: 480px;">Office is near: Nashville, TN 37209</td>
+                <td style="text-align: center;width: 480px;">Nashville, TN 37209</td>
                 <td style="text-align: center;width: 480px;"></td>
             </tr>
         </table>
@@ -5047,7 +5047,7 @@
         </table>
         <table style="width: 480px;">
             <tr style="height: 42px;">
-                <td style="text-align: center;width: 480px;">Office is near: Nashville, TN 37206</td>
+                <td style="text-align: center;width: 480px;">Nashville, TN 37206</td>
                 <td style="text-align: center;width: 480px;">(615) 645-2240</td>
             </tr>
         </table>
@@ -5113,7 +5113,7 @@
         </table>
         <table style="width: 480px;">
             <tr style="height: 42px;">
-                <td style="text-align: center;width: 480px;">Office is near: Nashville, TN 37216</td>
+                <td style="text-align: center;width: 480px;">Nashville, TN 37216</td>
                 <td style="text-align: center;width: 480px;">(901) 459-3391</td>
             </tr>
         </table>
@@ -5179,7 +5179,7 @@
         </table>
         <table style="width: 480px;">
             <tr style="height: 42px;">
-                <td style="text-align: center;width: 480px;">Office is near: Nashville, TN 37201</td>
+                <td style="text-align: center;width: 480px;">Nashville, TN 37201</td>
                 <td style="text-align: center;width: 480px;">(901) 422-8626</td>
             </tr>
         </table>
@@ -5404,7 +5404,7 @@
         </table>
         <table style="width: 480px;">
             <tr style="height: 42px;">
-                <td style="text-align: center;width: 480px;">Offers online therapy</td>
+                <td style="text-align: center;width: 480px;">In-person/Online therapy</td>
                 <td style="text-align: center;width: 480px;">Accepting clients</td>
             </tr>
         </table>
@@ -5443,7 +5443,7 @@
         </table>
         <table style="width: 480px;">
             <tr style="height: 42px;">
-                <td style="text-align: center;width: 480px;">Office is near: Nashville, TN 37201</td>
+                <td style="text-align: center;width: 480px;">Nashville, TN 37201</td>
                 <td style="text-align: center;width: 480px;">(615) 219-2751</td>
             </tr>
         </table>
@@ -5542,7 +5542,7 @@
         </table>
         <table style="width: 480px;">
             <tr style="height: 42px;">
-                <td style="text-align: center;width: 480px;">Office is near: Nashville, TN 37209</td>
+                <td style="text-align: center;width: 480px;">Nashville, TN 37209</td>
                 <td style="text-align: center;width: 480px;">(901) 329-3824</td>
             </tr>
         </table>
@@ -5575,7 +5575,7 @@
         </table>
         <table style="width: 480px;">
             <tr style="height: 42px;">
-                <td style="text-align: center;width: 480px;">Office is near: Nashville, TN 37221</td>
+                <td style="text-align: center;width: 480px;">Nashville, TN 37221</td>
                 <td style="text-align: center;width: 480px;">(240) 772-5662</td>
             </tr>
         </table>
@@ -5674,7 +5674,7 @@
         </table>
         <table style="width: 480px;">
             <tr style="height: 42px;">
-                <td style="text-align: center;width: 480px;">Office is near: Nashville, TN 37211</td>
+                <td style="text-align: center;width: 480px;">Nashville, TN 37211</td>
                 <td style="text-align: center;width: 480px;">(901) 295-0697</td>
             </tr>
         </table>
@@ -5707,7 +5707,7 @@
         </table>
         <table style="width: 480px;">
             <tr style="height: 42px;">
-                <td style="text-align: center;width: 480px;">Office is near: Nashville, TN 37201</td>
+                <td style="text-align: center;width: 480px;">Nashville, TN 37201</td>
                 <td style="text-align: center;width: 480px;">(901) 446-0628</td>
             </tr>
         </table>
@@ -5740,7 +5740,7 @@
         </table>
         <table style="width: 480px;">
             <tr style="height: 42px;">
-                <td style="text-align: center;width: 480px;">Office is near: Nashville, TN 37203</td>
+                <td style="text-align: center;width: 480px;">Nashville, TN 37203</td>
                 <td style="text-align: center;width: 480px;">(931) 213-7336</td>
             </tr>
         </table>
@@ -5773,7 +5773,7 @@
         </table>
         <table style="width: 480px;">
             <tr style="height: 42px;">
-                <td style="text-align: center;width: 480px;">Office is near: Nashville, TN 37211</td>
+                <td style="text-align: center;width: 480px;">Nashville, TN 37211</td>
                 <td style="text-align: center;width: 480px;">(314) 675-7078</td>
             </tr>
         </table>
@@ -5938,7 +5938,7 @@
         </table>
         <table style="width: 480px;">
             <tr style="height: 42px;">
-                <td style="text-align: center;width: 480px;">Office is near: Nashville, TN 37211</td>
+                <td style="text-align: center;width: 480px;">Nashville, TN 37211</td>
                 <td style="text-align: center;width: 480px;">(901) 472-3909</td>
             </tr>
         </table>
@@ -5965,7 +5965,7 @@
         </table>
         <table style="width: 480px;">
             <tr style="height: 42px;">
-                <td style="text-align: center;width: 480px;">Offers online therapy</td>
+                <td style="text-align: center;width: 480px;">In-person/Online therapy</td>
                 <td style="text-align: center;width: 480px;">Accepting clients</td>
             </tr>
         </table>
@@ -5986,7 +5986,7 @@
     </tr>
     <td style="align-items: center">
         <table style="text-align: center;">
-            <tr><td><img style="height: 180px;" alt="105983" src="https://photos.psychologytoday.com/fcd16096-983a-4c55-865f-0baff76adb09/2/320x400.jpeg"></td></tr>
+            <tr><td><img style="height: 180px;" alt="105983" src="https://i1.wp.com/photos.psychologytoday.com/fcd16096-983a-4c55-865f-0baff76adb09/2/320x400.jpeg"></td></tr>
             <tr><td style="width: 171px;height: 42px;font-weight: bold">Veronica Holmes</td></tr>
         </table>
     </td>
@@ -5998,7 +5998,7 @@
         </table>
         <table style="width: 480px;">
             <tr style="height: 42px;">
-                <td style="text-align: center;width: 480px;">Offers online therapy</td>
+                <td style="text-align: center;width: 480px;">In-person/Online therapy</td>
                 <td style="text-align: center;width: 480px;">Accepting clients</td>
             </tr>
         </table>
@@ -6037,7 +6037,7 @@
         </table>
         <table style="width: 480px;">
             <tr style="height: 42px;">
-                <td style="text-align: center;width: 480px;">Office is near: Nashville, TN 37201</td>
+                <td style="text-align: center;width: 480px;">Nashville, TN 37201</td>
                 <td style="text-align: center;width: 480px;">(931) 208-5857</td>
             </tr>
         </table>
@@ -6070,7 +6070,7 @@
         </table>
         <table style="width: 480px;">
             <tr style="height: 42px;">
-                <td style="text-align: center;width: 480px;">Office is near: Nashville, TN 37204</td>
+                <td style="text-align: center;width: 480px;">Nashville, TN 37204</td>
                 <td style="text-align: center;width: 480px;">(901) 329-8331</td>
             </tr>
         </table>
@@ -6136,7 +6136,7 @@
         </table>
         <table style="width: 480px;">
             <tr style="height: 42px;">
-                <td style="text-align: center;width: 480px;">Office is near: Nashville, TN 37208</td>
+                <td style="text-align: center;width: 480px;">Nashville, TN 37208</td>
                 <td style="text-align: center;width: 480px;">(931) 202-9065</td>
             </tr>
         </table>
