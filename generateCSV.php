@@ -9,6 +9,8 @@ use Illuminate\Container\Container;
 use Illuminate\Database\Capsule\Manager as Database;
 use Illuminate\Events\Dispatcher;
 use Illuminate\Filesystem\Filesystem;
+use PhpOffice\PhpSpreadsheet\Spreadsheet;
+use PhpOffice\PhpSpreadsheet\Writer\Csv;
 
 (static function () {
     /** @var null|string $path */
@@ -44,14 +46,15 @@ use Illuminate\Filesystem\Filesystem;
     $database->setAsGlobal();
     $database->bootEloquent();
 
-    $spreadsheet = new \PhpOffice\PhpSpreadsheet\Spreadsheet();
+    $spreadsheet = new Spreadsheet();
     $worksheet = $spreadsheet->getActiveSheet();
     $worksheet->fromArray(
         Therapist::whereNot('contact', '')
             ->orderBy('title')
             ->get()
+            ->prepend(['Name', 'Title', 'Bio', 'Avatar', 'Contact', 'Location', 'Type', 'Status'])
             ->toArray()
     );
-    $writer = new \PhpOffice\PhpSpreadsheet\Writer\Csv($spreadsheet);
-    $writer->save("Therapist.csv");
+    $writer = new Csv($spreadsheet);
+    $writer->save('Therapist.csv');
 })();
