@@ -119,7 +119,7 @@
     <td>
         <table style="width: 480px;">
             <tr>
-                <td width="600px">Every person will enter the therapeutic space with their own unique needs, goals, and experiences. I utilize an integrated approach to provide you with a personalized therapeutic experience that best fits you. I am truly passionate about assisting you on your journey to mental wellness. It is my mission to provide you with a safe, non- judgmental space in which you feel understood, supported, and valued. My ultimate goal is to provide you with the tools you need for growth and healing.</td>
+                <td width="600px">Has life been difficult since experiencing a major life change? Are you struggling with managing the burdens of adulting? Do you struggle knowing where to begin? Is it difficult navigating life without knowing the next step? Maybe you struggle making important life decisions? It's common to feel disoriented after big life transitions such as graduating from college, experiencing trauma, moving, starting a new job, or becoming a parent. These transitions may cause you to question your core values, identity, life roles, and interpersonal relationships. If this sounds like you, I would love to help you find your next step.</td>
             </tr>
         </table>
         <table style="width: 480px;">
@@ -594,6 +594,39 @@
             <tr style="height: 42px;">
                 <td style="text-align: center;width: 480px;">Nashville, TN 37203</td>
                 <td style="text-align: center;width: 480px;">(615) 307-9791 </td>
+            </tr>
+        </table>
+    </td>
+    </tr>
+</table>
+
+<table style="width: 800px; ">
+    <tr>
+    <tr style="height: 42px;">
+        <td style="height: 42px;text-align: center;" colspan="3" rowspan="1">Counselor, LPC, MHSP, ACS</td>
+    </tr>
+    <td style="align-items: center">
+        <table style="text-align: center;">
+            <tr><td><img style="height: 180px;" alt="176901" src="https://i1.wp.com/photos.psychologytoday.com/3d4d3eda-46cd-11ea-a6ad-06142c356176/3/320x400.jpeg"></td></tr>
+            <tr><td style="width: 171px;height: 42px;font-weight: bold">Bellevue Behavior Health Group</td></tr>
+        </table>
+    </td>
+    <td>
+        <table style="width: 480px;">
+            <tr>
+                <td width="600px">I conduct Alcohol & Drug Assessments for driver's license reinstatement, DCS, divorce cases, and employers. Believe me I know how hard it is to take that very first step! My approach to therapy is outcome focused, eclectic and tailored for each client. My style is interactive, casual and practical. The focus of therapy is creating positive changes identified by the individual that will increase satisfaction with life, relationships and self. I will provide a safe, supportive environment conducive to learning new skills and gaining insights to help clients take those steps toward change.</td>
+            </tr>
+        </table>
+        <table style="width: 480px;">
+            <tr style="height: 42px;">
+                <td style="text-align: center;width: 480px;">In-person/Online therapy</td>
+                <td style="text-align: center;width: 480px;">Accepting appointments</td>
+            </tr>
+        </table>
+        <table style="width: 480px;">
+            <tr style="height: 42px;">
+                <td style="text-align: center;width: 480px;">Nashville, TN 37221</td>
+                <td style="text-align: center;width: 480px;">(615) 829-8593 </td>
             </tr>
         </table>
     </td>
@@ -1122,6 +1155,39 @@
             <tr style="height: 42px;">
                 <td style="text-align: center;width: 480px;">Nashville, TN 37204</td>
                 <td style="text-align: center;width: 480px;">(615) 903-5134 </td>
+            </tr>
+        </table>
+    </td>
+    </tr>
+</table>
+
+<table style="width: 800px; ">
+    <tr>
+    <tr style="height: 42px;">
+        <td style="height: 42px;text-align: center;" colspan="3" rowspan="1">Counselor, EdS, LPCC, LPC-MHS</td>
+    </tr>
+    <td style="align-items: center">
+        <table style="text-align: center;">
+            <tr><td><img style="height: 180px;" alt="838630" src="https://i1.wp.com/photos.psychologytoday.com/c0153a1b-53e4-4974-84ad-178335c32cdb/2/320x400.jpeg"></td></tr>
+            <tr><td style="width: 171px;height: 42px;font-weight: bold">Chanella Clark</td></tr>
+        </table>
+    </td>
+    <td>
+        <table style="width: 480px;">
+            <tr>
+                <td width="600px">Do you feel sad, anxious, and irritable and don't know why? Do you lack energy and motivation to accomplish even minor tasks at home, work, or school? Are you struggling to put your life back in order? Therapy will allow you to make meaning of our difficult life experiences and open up to new ways of thinking, feeling, and being. I strive to provide a safe and supportive environment where clients can learn to identify and express your emotions effectively, develop healthy ways of coping with difficult emotions, improve the quality of relationships, and increase self-esteem and sense of self-worth.</td>
+            </tr>
+        </table>
+        <table style="width: 480px;">
+            <tr style="height: 42px;">
+                <td style="text-align: center;width: 480px;">In-person/Online therapy</td>
+                <td style="text-align: center;width: 480px;">Accepting appointments</td>
+            </tr>
+        </table>
+        <table style="width: 480px;">
+            <tr style="height: 42px;">
+                <td style="text-align: center;width: 480px;">Nashville, TN 37203</td>
+                <td style="text-align: center;width: 480px;">(615) 581-4702 </td>
             </tr>
         </table>
     </td>
@@ -2418,6 +2484,39 @@
 <table style="width: 800px; ">
     <tr>
     <tr style="height: 42px;">
+        <td style="height: 42px;text-align: center;" colspan="3" rowspan="1">Psychologist, PsyD, MPH, HSP</td>
+    </tr>
+    <td style="align-items: center">
+        <table style="text-align: center;">
+            <tr><td><img style="height: 180px;" alt="1050044" src="https://i1.wp.com/photos.psychologytoday.com/a865db17-837b-4b75-b508-b2ddb90b511f/1/320x400.jpeg"></td></tr>
+            <tr><td style="width: 171px;height: 42px;font-weight: bold">Hibbler Behavioral Health, Dr. LeChey S. Hibbler</td></tr>
+        </table>
+    </td>
+    <td>
+        <table style="width: 480px;">
+            <tr>
+                <td width="600px">Navigating life while trying to manage overwhelming emotions can be difficult. The good news is that you don't have to do it alone. My name is Dr. LeChey Hibbler and I help individuals acquire the tools needed to be the best version of themselves while honoring their authenticity. I allow clients to explore the connection between physical health and emotional well-being, often highlighting the importance of the whole health approach. I have come to see psychotherapy as a means to help people overcome their struggles and begin to live a more present, meaningful, and fulfilling life.</td>
+            </tr>
+        </table>
+        <table style="width: 480px;">
+            <tr style="height: 42px;">
+                <td style="text-align: center;width: 480px;">In-person/Online therapy</td>
+                <td style="text-align: center;width: 480px;">Accepting appointments</td>
+            </tr>
+        </table>
+        <table style="width: 480px;">
+            <tr style="height: 42px;">
+                <td style="text-align: center;width: 480px;">Nashville, TN 37203</td>
+                <td style="text-align: center;width: 480px;">(615) 437-7143 </td>
+            </tr>
+        </table>
+    </td>
+    </tr>
+</table>
+
+<table style="width: 800px; ">
+    <tr>
+    <tr style="height: 42px;">
         <td style="height: 42px;text-align: center;" colspan="3" rowspan="1">Licensed Professional Counselor, LPC, MHSP</td>
     </tr>
     <td style="align-items: center">
@@ -2984,7 +3083,7 @@
     <td style="align-items: center">
         <table style="text-align: center;">
             <tr><td><img style="height: 180px;" alt="159434" src="https://i1.wp.com/photos.psychologytoday.com/2f4694ba-e5ff-4463-94ac-0c299119612a/3/320x400.jpeg"></td></tr>
-            <tr><td style="width: 171px;height: 42px;font-weight: bold">KBR Mind, Body Integrative Practice</td></tr>
+            <tr><td style="width: 171px;height: 42px;font-weight: bold">KBR Serenity Mind, Body Practice</td></tr>
         </table>
     </td>
     <td>
@@ -3049,7 +3148,7 @@
     </tr>
     <td style="align-items: center">
         <table style="text-align: center;">
-            <tr><td><img style="height: 180px;" alt="415570" src="https://i1.wp.com/i.imgur.com/D77KqTJ.png"></td></tr>
+            <tr><td><img style="height: 180px;" alt="415570" src="https://i1.wp.com/photos.psychologytoday.com/de6f1741-bacc-49ae-9069-e63804b48d1f/1/320x400.jpeg"></td></tr>
             <tr><td style="width: 171px;height: 42px;font-weight: bold">Karla Lewis</td></tr>
         </table>
     </td>
@@ -4211,7 +4310,7 @@
     <td>
         <table style="width: 480px;">
             <tr>
-                <td width="600px">Many people are dealing with depression, anxiety, grief, and stress as they attempt to adjust from the change in normalcy. Emotions and feelings are natural indicators that reflects what we are personally feeling. Here at Mindful Steps, we believe that therapy is a teamwork effort. Your Therapist will help you navigate through life’s obstacles, challenge maladaptive behaviors, and negative thought patterns that have kept you stuck.</td>
+                <td width="600px">This is your opportunity to take time to improve your mental and emotional well being. Many people are dealing with depression, anxiety, grief, and stress as they attempt to adjust from the change in normalcy. Emotions and feelings are natural indicators that reflects what we are personally feeling. Here at Mindful Steps, we believe that therapy is a teamwork effort. Your Therapist will help you navigate through life’s obstacles, challenge maladaptive behaviors, and negative thought patterns that have kept you stuck.</td>
             </tr>
         </table>
         <table style="width: 480px;">
@@ -5887,7 +5986,7 @@
     </tr>
     <td style="align-items: center">
         <table style="text-align: center;">
-            <tr><td><img style="height: 180px;" alt="105983" src="https://i1.wp.com/photos.psychologytoday.com/d565a97d-20e9-40a4-be6f-57940539f1ca/1/320x400.jpeg"></td></tr>
+            <tr><td><img style="height: 180px;" alt="105983" src="https://i1.wp.com/photos.psychologytoday.com/fcd16096-983a-4c55-865f-0baff76adb09/2/320x400.jpeg"></td></tr>
             <tr><td style="width: 171px;height: 42px;font-weight: bold">Veronica Holmes</td></tr>
         </table>
     </td>
@@ -5986,7 +6085,7 @@
     </tr>
     <td style="align-items: center">
         <table style="text-align: center;">
-            <tr><td><img style="height: 180px;" alt="701687" src="https://i1.wp.com/i.imgur.com/D77KqTJ.png"></td></tr>
+            <tr><td><img style="height: 180px;" alt="701687" src="https://i1.wp.com/photos.psychologytoday.com/520c34f1-46cd-11ea-a6ad-06142c356176/2/320x400.jpeg"></td></tr>
             <tr><td style="width: 171px;height: 42px;font-weight: bold">Zenith Consulting & Psychological Services, LLC</td></tr>
         </table>
     </td>
