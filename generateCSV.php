@@ -44,31 +44,14 @@ use Illuminate\Filesystem\Filesystem;
     $database->setAsGlobal();
     $database->bootEloquent();
 
-    $handle = fopen('Therapist.csv', 'wb');
-
-    Therapist::getQuery()
-        ->whereNot('contact', '')
-        ->orderBy('title')
-        ->chunk(100, static function ($rows) use ($handle) {
-        foreach ($rows as $row) {
-            $row = (array) $row;
-            fputcsv(
-                $handle,
-                [
-                    'id'=> $row['id'],
-                    'title'=> $row['title'],
-                    'subtitle'=> $row['subtitle'],
-                    'statement'=> $row['statement'],
-                    'image'=> $row['image'],
-                    'contact'=> $row['contact'],
-                    'location'=> $row['location'],
-                    'offersOnlineTherapy'=> $row['offersOnlineTherapy'],
-                    'acceptingAppointments'=> $row['acceptingAppointments'],
-                ],
-                ';'
-            );
-        }
-    });
-
-    fclose($handle);
+    $spreadsheet = new \PhpOffice\PhpSpreadsheet\Spreadsheet();
+    $worksheet = $spreadsheet->getActiveSheet();
+    $worksheet->fromArray(
+        Therapist::whereNot('contact', '')
+            ->orderBy('title')
+            ->get()
+            ->toArray()
+    );
+    $writer = new \PhpOffice\PhpSpreadsheet\Writer\Csv($spreadsheet);
+    $writer->save("Therapist.csv");
 })();
