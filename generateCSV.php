@@ -52,7 +52,7 @@ use PhpOffice\PhpSpreadsheet\Writer\Csv;
         Therapist::whereNot('contact', '')
             ->orderBy('title')
             ->get()
-            ->prepend(['Name', 'Title', 'Bio', 'Avatar', 'Contact', 'Location', 'Type', 'Status'])
+            ->prepend(['Name', 'Title', 'Bio', 'Photo', 'Contact', 'Location', 'Type', 'Status'])
             ->toArray()
     );
     $writer = new Csv($spreadsheet);
