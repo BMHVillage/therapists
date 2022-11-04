@@ -61,19 +61,11 @@ use Illuminate\Filesystem\Filesystem;
                     $tableTemplate,
                     $therapist->getAttribute('subtitle'),
                     $therapist->getAttribute('hash'),
-                    str_replace(
-                        'https://',
-                        'https://i1.wp.com/',
-                        $therapist->getAttribute('image')??'https://i.imgur.com/D77KqTJ.png'
-                    ),
+                    $therapist->getAttribute('image'),
                     $therapist->getAttribute('title'),
                     $therapist->getAttribute('statement'),
-                    $therapist->getAttribute(
-                        'offersOnlineTherapy'
-                    ) === 'Offers online therapy' ? 'In-person/Online therapy' : 'In-person therapy',
-                    $therapist->getAttribute(
-                        'acceptingAppointments'
-                    )  === 'Not accepting new clients' ? 'Not accepting new clients' : 'Accepting appointments',
+                    $therapist->getAttribute('offersOnlineTherapy'),
+                    $therapist->getAttribute('acceptingAppointments'),
                     $therapist->getAttribute('location'),
                     $therapist->getAttribute('contact'),
                 )))
