@@ -58,13 +58,13 @@
         </table>
         <table style="width: 480px;">
             <tr style="height: 42px;">
-                <td style="text-align: center;width: 480px;">In-person/Online therapy</td>
+                <td style="text-align: center;width: 480px;">In-person therapy</td>
                 <td style="text-align: center;width: 480px;">Accepting clients</td>
             </tr>
         </table>
         <table style="width: 480px;">
             <tr style="height: 42px;">
-                <td style="text-align: center;width: 480px;">Nashville, TN 37211</td>
+                <td style="text-align: center;width: 480px;">Nashville, TN 37211 & Online</td>
                 <td style="text-align: center;width: 480px;">(615) 265-6398</td>
             </tr>
         </table>
@@ -152,18 +152,18 @@
     <td>
         <table style="width: 480px;">
             <tr>
-                <td width="600px">Do you want to feel seen, heard, and accepted? Ready to remove obstacles to becoming your best self? Need help navigating the nuances of your mental health? If so, I am here for you. I approach therapy with a tremendous sense of hope and optimism, and I believe change is possible. I strive to provide an environment that is relaxing and comfortable, and consider it a privilege to sit with another person as they process their experiences. I view the therapy room as a sacred space where clients can truly be themselves, with no judgment or criticism. Only understanding, humor, and honesty.</td>
+                <td width="600px">Do you want to feel seen, heard, and accepted? Ready to remove obstacles to becoming your best self? If so, I am here for you. I approach therapy with a tremendous sense of hope and optimism, and I believe change is possible. I strive to provide an environment that is relaxing and comfortable, and consider it a privilege to sit with another person as they process their experiences. I view the therapy room as a sacred space where clients can truly be themselves, with no judgment or criticism. Only understanding, humor, and honesty.</td>
             </tr>
         </table>
         <table style="width: 480px;">
             <tr style="height: 42px;">
-                <td style="text-align: center;width: 480px;">In-person/Online therapy</td>
+                <td style="text-align: center;width: 480px;">In-person therapy</td>
                 <td style="text-align: center;width: 480px;">Accepting clients</td>
             </tr>
         </table>
         <table style="width: 480px;">
             <tr style="height: 42px;">
-                <td style="text-align: center;width: 480px;">Nashville, TN 37208</td>
+                <td style="text-align: center;width: 480px;">Nashville, TN 37208 & Online</td>
                 <td style="text-align: center;width: 480px;">(615) 645-1262</td>
             </tr>
         </table>
@@ -388,13 +388,13 @@
         </table>
         <table style="width: 480px;">
             <tr style="height: 42px;">
-                <td style="text-align: center;width: 480px;">In-person/Online therapy</td>
+                <td style="text-align: center;width: 480px;">In-person therapy</td>
                 <td style="text-align: center;width: 480px;">Accepting clients</td>
             </tr>
         </table>
         <table style="width: 480px;">
             <tr style="height: 42px;">
-                <td style="text-align: center;width: 480px;">Nashville, TN 37241</td>
+                <td style="text-align: center;width: 480px;">Nashville, TN 37241 & Online</td>
                 <td style="text-align: center;width: 480px;">(423) 537-4803</td>
             </tr>
         </table>
@@ -982,13 +982,13 @@
         </table>
         <table style="width: 480px;">
             <tr style="height: 42px;">
-                <td style="text-align: center;width: 480px;">In-person/Online therapy</td>
+                <td style="text-align: center;width: 480px;">In-person therapy</td>
                 <td style="text-align: center;width: 480px;">Accepting clients</td>
             </tr>
         </table>
         <table style="width: 480px;">
             <tr style="height: 42px;">
-                <td style="text-align: center;width: 480px;">Nashville, TN 37204</td>
+                <td style="text-align: center;width: 480px;">Nashville, TN 37204 & Online</td>
                 <td style="text-align: center;width: 480px;">(615) 685-2009</td>
             </tr>
         </table>
@@ -1010,18 +1010,18 @@
     <td>
         <table style="width: 480px;">
             <tr>
-                <td width="600px">My ideal client is an individual who may be having difficulty with bio-psycho-social-spiritual behavior changes. These difficulties include but are not limited to the following: difficulty coping with a traumatic event, poor anger management, school or social issue behavior problems, boundaries issues, and sibling rivalry. My ideal client will be motivated in finding self-sustaining coping strategies while insight into the reasoning behind the challenges they face.</td>
+                <td width="600px">My ideal client is an individual who may be having difficulty with bio-psycho-social-spiritual behavior changes. These difficulties include but are not limited to the following: difficulty coping with a traumatic event, poor anger management, school or social issue behavior problems, boundaries issues, and sibling rivalry. My ideal client will be motivated in finding self-sustaining coping strategies and insight into the reasoning behind the challenges they face.</td>
             </tr>
         </table>
         <table style="width: 480px;">
             <tr style="height: 42px;">
-                <td style="text-align: center;width: 480px;">In-person/Online therapy</td>
+                <td style="text-align: center;width: 480px;">In-person therapy</td>
                 <td style="text-align: center;width: 480px;">Accepting clients</td>
             </tr>
         </table>
         <table style="width: 480px;">
             <tr style="height: 42px;">
-                <td style="text-align: center;width: 480px;">Nashville, TN 37201</td>
+                <td style="text-align: center;width: 480px;">Nashville, TN 37201 & Online</td>
                 <td style="text-align: center;width: 480px;">(615) 265-6129</td>
             </tr>
         </table>
@@ -1114,13 +1114,13 @@
         </table>
         <table style="width: 480px;">
             <tr style="height: 42px;">
-                <td style="text-align: center;width: 480px;">In-person/Online therapy</td>
+                <td style="text-align: center;width: 480px;">In-person therapy</td>
                 <td style="text-align: center;width: 480px;">Accepting clients</td>
             </tr>
         </table>
         <table style="width: 480px;">
             <tr style="height: 42px;">
-                <td style="text-align: center;width: 480px;">Nashville, TN 37203</td>
+                <td style="text-align: center;width: 480px;">Nashville, TN 37203 & Online</td>
                 <td style="text-align: center;width: 480px;">(901) 350-6728</td>
             </tr>
         </table>
@@ -1576,13 +1576,13 @@
         </table>
         <table style="width: 480px;">
             <tr style="height: 42px;">
-                <td style="text-align: center;width: 480px;">In-person/Online therapy</td>
+                <td style="text-align: center;width: 480px;">In-person therapy</td>
                 <td style="text-align: center;width: 480px;">Accepting clients</td>
             </tr>
         </table>
         <table style="width: 480px;">
             <tr style="height: 42px;">
-                <td style="text-align: center;width: 480px;">Nashville, TN 37212</td>
+                <td style="text-align: center;width: 480px;">Nashville, TN 37212 & Online</td>
                 <td style="text-align: center;width: 480px;">(631) 459-4295</td>
             </tr>
         </table>
@@ -1642,13 +1642,13 @@
         </table>
         <table style="width: 480px;">
             <tr style="height: 42px;">
-                <td style="text-align: center;width: 480px;">In-person/Online therapy</td>
+                <td style="text-align: center;width: 480px;">In-person therapy</td>
                 <td style="text-align: center;width: 480px;">Accepting clients</td>
             </tr>
         </table>
         <table style="width: 480px;">
             <tr style="height: 42px;">
-                <td style="text-align: center;width: 480px;">Nashville, TN 37204</td>
+                <td style="text-align: center;width: 480px;">Nashville, TN 37204 & Online</td>
                 <td style="text-align: center;width: 480px;">(352) 290-4294</td>
             </tr>
         </table>
@@ -1923,6 +1923,39 @@
 <table style="width: 800px; ">
     <tr>
     <tr style="height: 42px;">
+        <td style="height: 42px;text-align: center;" colspan="3" rowspan="1">Marriage & Family Therapist, DMin, MDiv, LMFT</td>
+    </tr>
+    <td style="align-items: center">
+        <table style="text-align: center;">
+            <tr><td><img style="height: 180px;" alt="1095229" src="https://i1.wp.com/photos.psychologytoday.com/9e9b7cb6-2d52-4aa8-ae67-d7cc45da5572/2/320x400.jpeg"></td></tr>
+            <tr><td style="width: 171px;height: 42px;font-weight: bold">Dr. Dwight Arthur Hughes</td></tr>
+        </table>
+    </td>
+    <td>
+        <table style="width: 480px;">
+            <tr>
+                <td width="600px">Have you grown cold, longing for deeper connection that's not in sight? Do you occasionally question if your partner is really there for you? Are you feeling resentful, controlled and unappreciated despite all you do? If so, there is hope. You can find your balance. There is a way through and out. The gift of Therapy, coupled with your unique way of caring for yourself (mind, body, spirit) can radically shift such an exhausting dynamic. Even those planning to enter sacred partnership can do so proactively by honing tools to avoid these common, intimacy pitfalls.</td>
+            </tr>
+        </table>
+        <table style="width: 480px;">
+            <tr style="height: 42px;">
+                <td style="text-align: center;width: 480px;">In-person therapy</td>
+                <td style="text-align: center;width: 480px;">Accepting clients</td>
+            </tr>
+        </table>
+        <table style="width: 480px;">
+            <tr style="height: 42px;">
+                <td style="text-align: center;width: 480px;">Nashville, TN 37203 & Online</td>
+                <td style="text-align: center;width: 480px;">(615) 307-4273</td>
+            </tr>
+        </table>
+    </td>
+    </tr>
+</table>
+
+<table style="width: 800px; ">
+    <tr>
+    <tr style="height: 42px;">
         <td style="height: 42px;text-align: center;" colspan="3" rowspan="1">Marriage & Family Therapist, PhD, LMFT</td>
     </tr>
     <td style="align-items: center">
@@ -1939,13 +1972,13 @@
         </table>
         <table style="width: 480px;">
             <tr style="height: 42px;">
-                <td style="text-align: center;width: 480px;">In-person/Online therapy</td>
+                <td style="text-align: center;width: 480px;">In-person therapy</td>
                 <td style="text-align: center;width: 480px;">Accepting clients</td>
             </tr>
         </table>
         <table style="width: 480px;">
             <tr style="height: 42px;">
-                <td style="text-align: center;width: 480px;">Nashville, TN 37201</td>
+                <td style="text-align: center;width: 480px;">Nashville, TN 37201 & Online</td>
                 <td style="text-align: center;width: 480px;">(205) 964-5629</td>
             </tr>
         </table>
@@ -2236,13 +2269,13 @@
         </table>
         <table style="width: 480px;">
             <tr style="height: 42px;">
-                <td style="text-align: center;width: 480px;">In-person/Online therapy</td>
+                <td style="text-align: center;width: 480px;">In-person therapy</td>
                 <td style="text-align: center;width: 480px;">Accepting clients</td>
             </tr>
         </table>
         <table style="width: 480px;">
             <tr style="height: 42px;">
-                <td style="text-align: center;width: 480px;">Nashville, TN 37203</td>
+                <td style="text-align: center;width: 480px;">Nashville, TN 37203 & Online</td>
                 <td style="text-align: center;width: 480px;">(615) 903-8064</td>
             </tr>
         </table>
@@ -2269,13 +2302,13 @@
         </table>
         <table style="width: 480px;">
             <tr style="height: 42px;">
-                <td style="text-align: center;width: 480px;">In-person/Online therapy</td>
+                <td style="text-align: center;width: 480px;">In-person therapy</td>
                 <td style="text-align: center;width: 480px;">Accepting clients</td>
             </tr>
         </table>
         <table style="width: 480px;">
             <tr style="height: 42px;">
-                <td style="text-align: center;width: 480px;">Nashville, TN 37203</td>
+                <td style="text-align: center;width: 480px;">Nashville, TN 37203 & Online</td>
                 <td style="text-align: center;width: 480px;">(615) 205-9182</td>
             </tr>
         </table>
@@ -2302,13 +2335,13 @@
         </table>
         <table style="width: 480px;">
             <tr style="height: 42px;">
-                <td style="text-align: center;width: 480px;">In-person/Online therapy</td>
+                <td style="text-align: center;width: 480px;">In-person therapy</td>
                 <td style="text-align: center;width: 480px;">Accepting clients</td>
             </tr>
         </table>
         <table style="width: 480px;">
             <tr style="height: 42px;">
-                <td style="text-align: center;width: 480px;">Nashville, TN 37204</td>
+                <td style="text-align: center;width: 480px;">Nashville, TN 37204 & Online</td>
                 <td style="text-align: center;width: 480px;">(901) 310-3911</td>
             </tr>
         </table>
@@ -2698,13 +2731,13 @@
         </table>
         <table style="width: 480px;">
             <tr style="height: 42px;">
-                <td style="text-align: center;width: 480px;">In-person/Online therapy</td>
+                <td style="text-align: center;width: 480px;">In-person therapy</td>
                 <td style="text-align: center;width: 480px;">Accepting clients</td>
             </tr>
         </table>
         <table style="width: 480px;">
             <tr style="height: 42px;">
-                <td style="text-align: center;width: 480px;">Nashville, TN 37212</td>
+                <td style="text-align: center;width: 480px;">Nashville, TN 37212 & Online</td>
                 <td style="text-align: center;width: 480px;">(931) 202-9219</td>
             </tr>
         </table>
@@ -3474,6 +3507,39 @@
 <table style="width: 800px; ">
     <tr>
     <tr style="height: 42px;">
+        <td style="height: 42px;text-align: center;" colspan="3" rowspan="1">Marriage & Family Therapist, LMFT</td>
+    </tr>
+    <td style="align-items: center">
+        <table style="text-align: center;">
+            <tr><td><img style="height: 180px;" alt="222238" src="https://i1.wp.com/photos.psychologytoday.com/3f8cd7dd-46cd-11ea-a6ad-06142c356176/2/320x400.jpeg"></td></tr>
+            <tr><td style="width: 171px;height: 42px;font-weight: bold">Kristen Maloney</td></tr>
+        </table>
+    </td>
+    <td>
+        <table style="width: 480px;">
+            <tr>
+                <td width="600px">Making the step to begin the counseling process can be scary and overwhelming; but it can be the first step toward healing and change. I absolutely love working with individuals and couples. Walking along side clients as they journey their way through hurt, anger, grief, frustration, and other emotions, is my pleasure. Some of the clients with whom I have worked came to me when things seemed to be very grim and hopeless. It has been my pleasure to watch them put in the hard work and commitment to the therapeutic process and come out as stronger individuals and couples.</td>
+            </tr>
+        </table>
+        <table style="width: 480px;">
+            <tr style="height: 42px;">
+                <td style="text-align: center;width: 480px;">In-person therapy</td>
+                <td style="text-align: center;width: 480px;">Accepting clients</td>
+            </tr>
+        </table>
+        <table style="width: 480px;">
+            <tr style="height: 42px;">
+                <td style="text-align: center;width: 480px;">Nashville, TN 37203</td>
+                <td style="text-align: center;width: 480px;">(615) 212-2469</td>
+            </tr>
+        </table>
+    </td>
+    </tr>
+</table>
+
+<table style="width: 800px; ">
+    <tr>
+    <tr style="height: 42px;">
         <td style="height: 42px;text-align: center;" colspan="3" rowspan="1">Licensed Professional Counselor, LPC, MHSP , NCC, MPA, ACS</td>
     </tr>
     <td style="align-items: center">
@@ -3556,13 +3622,13 @@
         </table>
         <table style="width: 480px;">
             <tr style="height: 42px;">
-                <td style="text-align: center;width: 480px;">In-person/Online therapy</td>
+                <td style="text-align: center;width: 480px;">In-person therapy</td>
                 <td style="text-align: center;width: 480px;">Accepting clients</td>
             </tr>
         </table>
         <table style="width: 480px;">
             <tr style="height: 42px;">
-                <td style="text-align: center;width: 480px;">Nashville, TN 37204</td>
+                <td style="text-align: center;width: 480px;">Nashville, TN 37204 & Online</td>
                 <td style="text-align: center;width: 480px;">(615) 570-3144</td>
             </tr>
         </table>
@@ -3589,13 +3655,13 @@
         </table>
         <table style="width: 480px;">
             <tr style="height: 42px;">
-                <td style="text-align: center;width: 480px;">In-person/Online therapy</td>
+                <td style="text-align: center;width: 480px;">In-person therapy</td>
                 <td style="text-align: center;width: 480px;">Accepting clients</td>
             </tr>
         </table>
         <table style="width: 480px;">
             <tr style="height: 42px;">
-                <td style="text-align: center;width: 480px;">Nashville, TN 37216</td>
+                <td style="text-align: center;width: 480px;">Nashville, TN 37216 & Online</td>
                 <td style="text-align: center;width: 480px;">(615) 203-8056</td>
             </tr>
         </table>
@@ -3853,13 +3919,13 @@
         </table>
         <table style="width: 480px;">
             <tr style="height: 42px;">
-                <td style="text-align: center;width: 480px;">In-person/Online therapy</td>
+                <td style="text-align: center;width: 480px;">In-person therapy</td>
                 <td style="text-align: center;width: 480px;">Accepting clients</td>
             </tr>
         </table>
         <table style="width: 480px;">
             <tr style="height: 42px;">
-                <td style="text-align: center;width: 480px;">Nashville, TN 37217</td>
+                <td style="text-align: center;width: 480px;">Nashville, TN 37217 & Online</td>
                 <td style="text-align: center;width: 480px;">(615) 205-9665</td>
             </tr>
         </table>
@@ -3947,18 +4013,18 @@
     <td>
         <table style="width: 480px;">
             <tr>
-                <td width="600px">I have genuine empathy and compassion for individuals, marriages, children and families that are hurting. My practice was established for the purpose of restoring and sustaining wholeness in the lives of all people. Such wholeness is directed toward helping clients achieve more satisfying and productive lives in the contexts of their family, church, community and work place. This mission is accomplished in an environment that is grace filled, secure, caring, confidential, professional, and respectful of each person's life journey. I offer my services to all who seek personal and relational wholeness.</td>
+                <td width="600px">I have genuine empathy and compassion for individuals, marriages, couples, teens and women that are hurting. My practice was established for the purpose of restoring and sustaining wholeness in the lives of all people. Such wholeness is directed toward helping clients achieve more satisfying and productive lives in the contexts of their family, church, community and work place. This mission is accomplished in an environment that is grace filled, secure, caring, confidential, professional, and respectful of each person's life journey. I offer my services to all who seek personal and relational wholeness.</td>
             </tr>
         </table>
         <table style="width: 480px;">
             <tr style="height: 42px;">
-                <td style="text-align: center;width: 480px;">In-person/Online therapy</td>
+                <td style="text-align: center;width: 480px;">In-person therapy</td>
                 <td style="text-align: center;width: 480px;">Accepting clients</td>
             </tr>
         </table>
         <table style="width: 480px;">
             <tr style="height: 42px;">
-                <td style="text-align: center;width: 480px;">Nashville, TN 37216</td>
+                <td style="text-align: center;width: 480px;">Nashville, TN 37216 & Online</td>
                 <td style="text-align: center;width: 480px;">(615) 237-5045</td>
             </tr>
         </table>
@@ -4237,7 +4303,7 @@
     </tr>
     <td style="align-items: center">
         <table style="text-align: center;">
-            <tr><td><img style="height: 180px;" alt="1032325" src="https://i1.wp.com/photos.psychologytoday.com/7e73e665-ef9b-4ce5-9e35-903ec32974b7/4/320x400.jpeg"></td></tr>
+            <tr><td><img style="height: 180px;" alt="1032325" src="https://i1.wp.com/photos.psychologytoday.com/a550d532-cebd-424c-87b1-35dc96b9a17e/1/320x400.jpeg"></td></tr>
             <tr><td style="width: 171px;height: 42px;font-weight: bold">Mikaila Robinson</td></tr>
         </table>
     </td>
@@ -4249,13 +4315,13 @@
         </table>
         <table style="width: 480px;">
             <tr style="height: 42px;">
-                <td style="text-align: center;width: 480px;">In-person/Online therapy</td>
+                <td style="text-align: center;width: 480px;">In-person therapy</td>
                 <td style="text-align: center;width: 480px;">Accepting clients</td>
             </tr>
         </table>
         <table style="width: 480px;">
             <tr style="height: 42px;">
-                <td style="text-align: center;width: 480px;">Nashville, TN 37211</td>
+                <td style="text-align: center;width: 480px;">Nashville, TN 37211 & Online</td>
                 <td style="text-align: center;width: 480px;">(615) 437-4704</td>
             </tr>
         </table>
@@ -4282,13 +4348,13 @@
         </table>
         <table style="width: 480px;">
             <tr style="height: 42px;">
-                <td style="text-align: center;width: 480px;">In-person/Online therapy</td>
+                <td style="text-align: center;width: 480px;">In-person therapy</td>
                 <td style="text-align: center;width: 480px;">Accepting clients</td>
             </tr>
         </table>
         <table style="width: 480px;">
             <tr style="height: 42px;">
-                <td style="text-align: center;width: 480px;">Nashville, TN 37202</td>
+                <td style="text-align: center;width: 480px;">Nashville, TN 37202 & Online</td>
                 <td style="text-align: center;width: 480px;">(901) 350-4703</td>
             </tr>
         </table>
@@ -5041,13 +5107,13 @@
         </table>
         <table style="width: 480px;">
             <tr style="height: 42px;">
-                <td style="text-align: center;width: 480px;">In-person/Online therapy</td>
+                <td style="text-align: center;width: 480px;">In-person therapy</td>
                 <td style="text-align: center;width: 480px;">Accepting clients</td>
             </tr>
         </table>
         <table style="width: 480px;">
             <tr style="height: 42px;">
-                <td style="text-align: center;width: 480px;">Nashville, TN 37206</td>
+                <td style="text-align: center;width: 480px;">Nashville, TN 37206 & Online</td>
                 <td style="text-align: center;width: 480px;">(615) 645-2240</td>
             </tr>
         </table>
@@ -5371,13 +5437,13 @@
         </table>
         <table style="width: 480px;">
             <tr style="height: 42px;">
-                <td style="text-align: center;width: 480px;">In-person/Online therapy</td>
+                <td style="text-align: center;width: 480px;">In-person therapy</td>
                 <td style="text-align: center;width: 480px;">Accepting clients</td>
             </tr>
         </table>
         <table style="width: 480px;">
             <tr style="height: 42px;">
-                <td style="text-align: center;width: 480px;">Nashville, TN 37205</td>
+                <td style="text-align: center;width: 480px;">Nashville, TN 37205 & Online</td>
                 <td style="text-align: center;width: 480px;">(629) 200-6414 x2</td>
             </tr>
         </table>
@@ -5404,13 +5470,13 @@
         </table>
         <table style="width: 480px;">
             <tr style="height: 42px;">
-                <td style="text-align: center;width: 480px;">In-person/Online therapy</td>
+                <td style="text-align: center;width: 480px;">In-person therapy</td>
                 <td style="text-align: center;width: 480px;">Accepting clients</td>
             </tr>
         </table>
         <table style="width: 480px;">
             <tr style="height: 42px;">
-                <td style="text-align: center;width: 480px;">Nashville, TN 37215</td>
+                <td style="text-align: center;width: 480px;">Nashville, TN 37215 & Online</td>
                 <td style="text-align: center;width: 480px;">(615) 709-5372</td>
             </tr>
         </table>
@@ -5569,13 +5635,13 @@
         </table>
         <table style="width: 480px;">
             <tr style="height: 42px;">
-                <td style="text-align: center;width: 480px;">In-person/Online therapy</td>
+                <td style="text-align: center;width: 480px;">In-person therapy</td>
                 <td style="text-align: center;width: 480px;">Accepting clients</td>
             </tr>
         </table>
         <table style="width: 480px;">
             <tr style="height: 42px;">
-                <td style="text-align: center;width: 480px;">Nashville, TN 37221</td>
+                <td style="text-align: center;width: 480px;">Nashville, TN 37221 & Online</td>
                 <td style="text-align: center;width: 480px;">(240) 772-5662</td>
             </tr>
         </table>
@@ -6039,6 +6105,39 @@
             <tr style="height: 42px;">
                 <td style="text-align: center;width: 480px;">Nashville, TN 37201</td>
                 <td style="text-align: center;width: 480px;">(931) 208-5857</td>
+            </tr>
+        </table>
+    </td>
+    </tr>
+</table>
+
+<table style="width: 800px; ">
+    <tr>
+    <tr style="height: 42px;">
+        <td style="height: 42px;text-align: center;" colspan="3" rowspan="1">Clinical Social Work/Therapist, LMSW</td>
+    </tr>
+    <td style="align-items: center">
+        <table style="text-align: center;">
+            <tr><td><img style="height: 180px;" alt="993046" src="https://i1.wp.com/photos.psychologytoday.com/a9d8d36c-d681-4ccc-b187-a622091c78ea/2/320x400.jpeg"></td></tr>
+            <tr><td style="width: 171px;height: 42px;font-weight: bold">Yulanda Taylor</td></tr>
+        </table>
+    </td>
+    <td>
+        <table style="width: 480px;">
+            <tr>
+                <td width="600px">Do you feel like you must wear a mask to hide your true self? Are you ready to remove the mask and show your true face? Together we will reveal what you have been masking and denounce those negative thoughts or behaviors. Together we will reveal what you have been masking and denounce those negative thoughts and behaviors. I too can incorporate prayer and scripture to help you affirm the promises of God. Matthew 18:20 tells us “For where two or three gather in my name, I am there among them.” -CSB</td>
+            </tr>
+        </table>
+        <table style="width: 480px;">
+            <tr style="height: 42px;">
+                <td style="text-align: center;width: 480px;">In-person therapy</td>
+                <td style="text-align: center;width: 480px;">Accepting clients</td>
+            </tr>
+        </table>
+        <table style="width: 480px;">
+            <tr style="height: 42px;">
+                <td style="text-align: center;width: 480px;">Nashville, TN 37208 & Online</td>
+                <td style="text-align: center;width: 480px;">(901) 665-2230</td>
             </tr>
         </table>
     </td>
