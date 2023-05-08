@@ -98,7 +98,7 @@ use Symfony\Component\DomCrawler\Crawler;
                 $subtitle = $subtitle->count()>0 ? $subtitle->innerText() : null;
 
                 $contact = $node->filter('.results-row-mob');
-                $contact = $contact->count()>0 ? $contact->innerText() : null;
+                $contact = $contact->count()>0 ? $contact->innerText() : '';
 
                 $statement = $node->filter('div.statements');
                 $statement = $statement->count()>0 ? $statement->innerText() : null;
