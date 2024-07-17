@@ -1,5 +1,5 @@
 {
-    "name": "ghostwriter/tn-therapists",
+    "name": "bmhv/therapists",
     "description": "TN Therapists",
     "license": "BSD-3-Clause",
     "type": "library",
@@ -16,13 +16,14 @@
             "role": "Developer"
         }
     ],
-    "homepage": "https://github.com/ghostwriter/tn-therapists",
+    "homepage": "https://github.com/bmhv/therapists",
     "support": {
-        "issues": "https://github.com/ghostwriter/tn-therapists/issues",
-        "forum": "https://github.com/ghostwriter/tn-therapists/discussions",
-        "source": "https://github.com/ghostwriter/tn-therapists",
-        "docs": "https://github.com/ghostwriter/tn-therapists",
-        "rss": "https://github.com/ghostwriter/tn-therapists/releases.atom"
+        "issues": "https://github.com/bmhv/therapists/issues",
+        "forum": "https://github.com/bmhv/therapists/discussions",
+        "source": "https://github.com/bmhv/therapists",
+        "docs": "https://github.com/bmhv/therapists",
+        "rss": "https://github.com/bmhv/therapists/releases.atom",
+        "security": "https://github.com/bmhv/therapists/security/advisories/new"
     },
     "funding": [
         {
@@ -30,19 +31,25 @@
             "url": "https://github.com/sponsors/ghostwriter"
         }
     ],
+    "_comment": "#BlackLivesMatter",
     "require": {
-        "php": ">=8.1,<8.3",
-        "ghostwriter/option": "^1.4",
-        "guzzlehttp/guzzle": "^7.5.1",
-        "illuminate/container": "*",
-        "illuminate/database": "*",
-        "illuminate/events": "*",
-        "illuminate/filesystem": "*",
-        "illuminate/http": "*",
-        "phpoffice/phpspreadsheet": "^1.28",
-        "symfony/css-selector": "^6.2.7",
-        "symfony/dom-crawler": "^6.2.9",
-        "symplify/easy-coding-standard": "11.1.10"
+        "php": ">=8.3",
+        "ghostwriter/container": "^4.0.2",
+        "ghostwriter/event-dispatcher": "^5.0.2",
+        "ghostwriter/option": "^1.5.1",
+        "guzzlehttp/guzzle": "^7.8.1",
+        "illuminate/container": "^11.16.0",
+        "illuminate/database": "^11.16.0",
+        "illuminate/events": "^11.16.0",
+        "illuminate/filesystem": "^11.16.0",
+        "illuminate/http": "^11.16.0",
+        "phpoffice/phpspreadsheet": "^2.1.0",
+        "symfony/css-selector": "^6.4.8",
+        "symfony/dom-crawler": "^6.4.8",
+        "symplify/easy-coding-standard": "^12.3.1"
+    },
+    "require-dev": {
+        "ghostwriter/coding-standard": "dev-main"
     },
     "replace": {},
     "minimum-stability": "stable",
@@ -52,65 +59,72 @@
             "Ghostwriter\\TnTherapists\\": "."
         }
     },
+    "autoload-dev": {
+        "psr-4": {
+            "Tests\\": "tests"
+        }
+    },
     "config": {
         "allow-plugins": {
+            "ghostwriter/coding-standard": true,
             "infection/extension-installer": true
         },
-        "classmap-authoritative": true,
+        "classmap-authoritative": false,
         "discard-changes": true,
         "optimize-autoloader": true,
+        "platform": {
+            "php": "8.3.999"
+        },
         "preferred-install": "dist",
         "prepend-autoloader": true,
         "process-timeout": 5000,
-        "sort-packages": true
+        "sort-packages": true,
+        "use-parent-dir": false
     },
     "scripts": {
-        "cache:clear": [
-            "rm -fr ./.cache"
-        ],
+        "bin_ecs": "ecs check --clear-cache --no-interaction",
+        "bin_infection": "infection --ansi --show-mutations --threads=max --min-msi=0 --min-covered-msi=0",
+        "bin_phive": "phive",
+        "bin_phpunit": "phpunit --do-not-cache-result --colors=always",
+        "bin_psalm": "psalm --no-cache",
+        "bin_rector": "rector process --no-ansi --clear-cache",
+        "cache:clear": "rm -rf ./.cache/*",
         "check": [
             "@composer validate",
-            "@normalizer",
-            "@cs-check",
-            "@cs-fix",
-            "@test",
-            "@psalm:security",
-            "@rector:dry-run",
-            "@psalm:dry-run"
+            "@ecs",
+            "@test"
         ],
         "cs-check": "vendor/bin/ecs check --clear-cache || true",
         "cs-fix": [
             "vendor/bin/ecs check --fix --clear-cache",
             "vendor/bin/ecs check-markdown --fix --clear-cache"
         ],
-        "infection": [
-            "@putenv XDEBUG_MODE=coverage",
-            "vendor/bin/infection --verbose"
+        "dev": [
+            "@cache:clear",
+            "@check",
+            "@psalm:update",
+            "@psalm:security",
+            "@psalm:dry-run"
         ],
-        "missing-returntypes": "psalm --alter --issues=MissingReturnType",
-        "normalizer": "composer normalize --no-check-lock",
-        "phpunit": "phpunit --colors=always --testdox --stop-on-failure",
-        "psalm": "@psalm:shepherd",
-        "psalm:baseline": "psalm --set-baseline=psalm-baseline.xml",
-        "psalm:dry-run": "psalm --alter --issues=all --dry-run",
-        "psalm:missing": "psalm --alter --issues=MissingReturnType",
-        "psalm:security": "psalm --taint-analysis",
-        "psalm:shepherd": "psalm --shepherd --stats --no-diff --no-cache",
-        "rector": "vendor/bin/rector process",
+        "ecs": "@bin_ecs --fix",
+        "git:submodule:update": "git submodule update --depth=1 --init --recursive --recommend-shallow --remote",
+        "infection": "@bin_infection",
+        "phpunit": "@bin_phpunit",
+        "phpunit:migrate": "@bin_phpunit --migrate-configuration",
+        "psalm": "@bin_psalm --show-info=true",
+        "psalm:alter": "@bin_psalm --alter --allow-backwards-incompatible-changes=false --safe-types",
+        "psalm:baseline": "@psalm --no-diff --set-baseline=psalm-baseline.xml",
+        "psalm:dry-run": "@psalm:alter --issues=all --dry-run",
+        "psalm:fix": "@psalm:alter --issues=UnnecessaryVarAnnotation,MissingPureAnnotation,MissingImmutableAnnotation",
+        "psalm:security": "@psalm --no-diff --taint-analysis",
+        "psalm:shepherd": "@psalm --no-diff --shepherd --stats",
+        "psalm:update": "@psalm --no-diff --update-baseline=psalm-baseline.xml",
+        "rector": "@bin_rector",
         "rector:dry-run": "vendor/bin/rector process --dry-run || true",
         "test": [
-            "@xdebug",
             "@phpunit",
-            "@psalm",
+            "@psalm:shepherd",
             "@infection"
-        ],
-        "test:coverage": [
-            "@cache:clear",
-            "@xdebug",
-            "@phpunit"
-        ],
-        "xdebug": [
-            "@putenv XDEBUG_MODE=coverage"
         ]
     }
 }
