@@ -37,16 +37,17 @@
         "ghostwriter/container": "^4.0.2",
         "ghostwriter/event-dispatcher": "^5.0.2",
         "ghostwriter/option": "^1.5.1",
-        "guzzlehttp/guzzle": "^7.8.1",
-        "illuminate/container": "^11.16.0",
-        "illuminate/database": "^11.16.0",
-        "illuminate/events": "^11.16.0",
-        "illuminate/filesystem": "^11.16.0",
-        "illuminate/http": "^11.16.0",
-        "phpoffice/phpspreadsheet": "^2.1.0",
-        "symfony/css-selector": "^6.4.8",
-        "symfony/dom-crawler": "^6.4.8",
-        "symplify/easy-coding-standard": "^12.3.1"
+        "ghostwriter/uuid": "^1.0.1",
+        "guzzlehttp/guzzle": "^7.9.2",
+        "illuminate/container": "^11.21.0",
+        "illuminate/database": "^11.21.0",
+        "illuminate/events": "^11.21.0",
+        "illuminate/filesystem": "^11.21.0",
+        "illuminate/http": "^11.21.0",
+        "phpoffice/phpspreadsheet": "^2.2.2",
+        "symfony/css-selector": "^7.1.1",
+        "symfony/dom-crawler": "^7.1.1",
+        "symplify/easy-coding-standard": "^12.3.5"
     },
     "require-dev": {
         "ghostwriter/coding-standard": "dev-main"
@@ -94,11 +95,6 @@
             "@ecs",
             "@test"
         ],
-        "cs-check": "vendor/bin/ecs check --clear-cache || true",
-        "cs-fix": [
-            "vendor/bin/ecs check --fix --clear-cache",
-            "vendor/bin/ecs check-markdown --fix --clear-cache"
-        ],
         "dev": [
             "@cache:clear",
             "@check",
@@ -120,7 +116,7 @@
         "psalm:shepherd": "@psalm --no-diff --shepherd --stats",
         "psalm:update": "@psalm --no-diff --update-baseline=psalm-baseline.xml",
         "rector": "@bin_rector",
-        "rector:dry-run": "vendor/bin/rector process --dry-run || true",
+        "rector:dry-run": "@rector --dry-run",
         "test": [
             "@phpunit",
             "@psalm:shepherd",
