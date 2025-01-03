@@ -4,6 +4,7 @@ declare(strict_types=1);
 
 namespace Ghostwriter\TnTherapists;
 
+use ErrorException;
 use Ghostwriter\TnTherapists\Model\Therapist;
 use Illuminate\Container\Container;
 use Illuminate\Database\Capsule\Manager as Database;
@@ -12,22 +13,28 @@ use Illuminate\Filesystem\Filesystem;
 use PhpOffice\PhpSpreadsheet\Spreadsheet;
 use PhpOffice\PhpSpreadsheet\Writer\Csv;
 
-(static function () {
-    /** @var null|string $path */
-    $path = array_reduce(
-        [
-            __DIR__ . '/vendor/autoload.php',
-            __DIR__ . '/../../../autoload.php',
-            __DIR__ . '/../vendor/autoload.php',
-            __DIR__ . '/../autoload.php',
-        ],
-        static fn ($carry, $item) => (($carry === null) && file_exists($item)) ? $item : $carry
-    );
-    if ($path === null) {
-        fwrite(STDERR, 'Cannot locate autoloader; please run "composer install"' . PHP_EOL);
+use function array_reduce;
+use function file_exists;
+use function fwrite;
+
+use const DIRECTORY_SEPARATOR;
+use const PHP_EOL;
+use const STDERR;
+
+(static function (string $autoloader): void {
+    set_error_handler(static function (int $severity, string $message, string $file, int $line): never {
+        throw new ErrorException($message, 255, $severity, $file, $line);
+    });
+
+    if (! file_exists($autoloader)) {
+        fwrite(
+            STDERR,
+            sprintf('[ERROR]Cannot locate "%s"%s please run "composer install"%s', $autoloader, PHP_EOL, PHP_EOL)
+        );
         exit(1);
     }
-    require $path;
+
+    require $autoloader;
 
     $filesystem = new Filesystem();
 
@@ -46,15 +53,16 @@ use PhpOffice\PhpSpreadsheet\Writer\Csv;
     $database->setAsGlobal();
     $database->bootEloquent();
 
+    $heading = ['Name', 'Title', 'Bio', 'Photo', 'Contact', 'Location', 'Type', 'Status'];
+
     $spreadsheet = new Spreadsheet();
-    $worksheet = $spreadsheet->getActiveSheet();
-    $worksheet->fromArray(
+    $spreadsheet->getActiveSheet()->fromArray(
         Therapist::whereNot('contact', '')
             ->orderBy('title')
             ->get()
-            ->prepend(['Name', 'Title', 'Bio', 'Photo', 'Contact', 'Location', 'Type', 'Status'])
+            ->prepend($heading)
             ->toArray()
     );
     $writer = new Csv($spreadsheet);
     $writer->save('Therapist.csv');
-})();
+})(\implode(DIRECTORY_SEPARATOR,[__DIR__ , 'vendor','autoload.php']));
