@@ -13,22 +13,24 @@ use Illuminate\Filesystem\Filesystem;
 use Illuminate\Http\Client\Factory;
 use Symfony\Component\DomCrawler\Crawler;
 
-(static function () {
-    /** @var null|string $path */
-    $path = array_reduce(
-        [
-            __DIR__ . '/vendor/autoload.php',
-            __DIR__ . '/../autoload.php',
-            __DIR__ . '/../../../autoload.php',
-            __DIR__ . '/../vendor/autoload.php',
-        ],
-        static fn ($carry, $item) => (($carry === null) && file_exists($item)) ? $item : $carry
-    );
-    if ($path === null) {
+use function basename;
+use function dump;
+use function fwrite;
+use function is_file;
+use function str_replace;
+use function trim;
+
+use const DIRECTORY_SEPARATOR;
+use const PHP_EOL;
+use const STDERR;
+
+(static function (string $composerAutoloadPath): void {
+    if (! is_file($composerAutoloadPath)) {
         fwrite(STDERR, 'Cannot locate autoloader; please run "composer install"' . PHP_EOL);
         exit(1);
     }
-    require $path;
+
+    require $composerAutoloadPath;
 
     $filesystem = new Filesystem();
     $databasePath = './database.sqlite';
@@ -47,30 +49,34 @@ use Symfony\Component\DomCrawler\Crawler;
     $database->setAsGlobal();
     $database->bootEloquent();
 
+    //    TODO: add Endorsed Therapists
+    // (list of therapists who have been endorsed/approved by the community
+    // (list of therapists who have been recommended by other therapists)
+
     if (! Database::schema()->hasTable('therapists')) {
-        Database::schema()->create('therapists', static function (Blueprint $table) {
-            $table->id();
-            $table->string('title')
+        Database::schema()->create('therapists', static function (Blueprint $blueprint): void {
+            $blueprint->id();
+            $blueprint->string('title')
                 ->nullable();
-            $table->string('subtitle')
+            $blueprint->string('subtitle')
                 ->nullable();
-            $table->text('statement')
+            $blueprint->text('statement')
                 ->nullable();
-            $table->string('image')
+            $blueprint->string('image')
                 ->nullable();
-            $table->string('contact')
+            $blueprint->string('contact')
                 ->nullable();
-            $table->string('location')
+            $blueprint->string('location')
                 ->nullable();
-            $table->string('offersOnlineTherapy')
+            $blueprint->string('offersOnlineTherapy')
                 ->nullable();
-            $table->string('acceptingAppointments')
+            $blueprint->string('acceptingAppointments')
                 ->nullable();
-            $table->string('hash')
+            $blueprint->string('hash')
                 ->unique()
                 ->index();
-            $table->softDeletes();
-            $table->timestamps();
+            $blueprint->softDeletes();
+            $blueprint->timestamps();
         });
         echo 'table created';
     } else {
@@ -79,7 +85,7 @@ use Symfony\Component\DomCrawler\Crawler;
 
     $api = 'https://www.psychologytoday.com/us/therapists/tn/nashville';
     $http = new Factory();
-    $page = 10;
+    $page = 100;
 
     do {
         $response = $http->get($api, [
@@ -88,54 +94,58 @@ use Symfony\Component\DomCrawler\Crawler;
         ]);
         $crawler = new Crawler($response->body());
         $crawler->filter('div.results-row')
-            ->each(static function (Crawler $node) {
-                $hash = basename($node->filter('a')->links()[0]->getUri());
+            ->each(static function (Crawler $crawler) {
+                $hash = basename($crawler->filter('a')->links()[0]->getUri());
 
-                $title = $node->filter('.profile-title');
+                $title = $crawler->filter('.profile-title');
                 $title = $title->count()>0 ? $title->innerText() : null;
 
-                $subtitle = $node->filter('.profile-subtitle');
+                $subtitle = $crawler->filter('.profile-subtitle-credentials');
                 $subtitle = $subtitle->count()>0 ? $subtitle->innerText() : null;
 
-                $contact = $node->filter('.results-row-mob');
+                $contact = $crawler->filter('.results-row-phone');
                 $contact = $contact->count()>0 ? $contact->innerText() : '';
 
-                $statement = $node->filter('div.statements');
-                $statement = $statement->count()>0 ? $statement->innerText() : null;
+                $statements = $crawler->filter('div.statements');
+                $statement = $statements->count()>0 ? $statements->text() : null;
 
-                $location = $node->filter('.profile-location');
-                $location = $location->count()>0 ? $location->text() : null;
+                $profileLocation = $crawler->filter('.profile-location');
+                $location = $profileLocation->count()>0 ? $profileLocation->text() : '';
 
-                $image = $node->filter('span.profile-image img');
-                $image = ($image->count()>0) ? ($image->attr('src') ?? $image->attr('data-src')) : null;
+                $profileImage = $crawler->filter('span.profile-image img');
+                $image = ($profileImage->count()>0) ? ($profileImage->attr('src') ?? $profileImage->attr(
+                    'data-src'
+                )) : null;
 
-                $offersOnlineTherapy = $node->filter('.profile-teletherapy');
-                $offersOnlineTherapy = $offersOnlineTherapy->count()>0 ? $offersOnlineTherapy->text() : null;
+                $profileTeletherapy = $crawler->filter('.profile-teletherapy');
+                $offersOnlineTherapy = $profileTeletherapy->count()>0 ? $profileTeletherapy->text() : null;
 
-                $acceptingAppointments = $node->filter('.accepting-appointments');
-                $acceptingAppointments = $acceptingAppointments->count()>0 ? $acceptingAppointments->text() : null;
-                return Therapist::withTrashed()->updateOrCreate(
-                    [
-                        'hash'=> $hash,
-                    ],
-                    dump([
-                        'hash'=> $hash,
-                        'title'=>$title,
-                        'subtitle'=>$subtitle,
-                        'image' => str_replace(
-                            'https://',
-                            'https://i1.wp.com/',
-                            $image ??'https://i.imgur.com/D77KqTJ.png'
-                        ),
-                        'statement'=> $statement,
-                        'contact'=> trim(str_replace(' ', '', $contact)),
-                        'location'=> trim(str_replace('Office is near:', '', $location)),
-                        'offersOnlineTherapy'=>  ($offersOnlineTherapy === 'Offers online therapy') ?
-                            'In-person/Online therapy' :
-                            'In-person therapy',
-                        'acceptingAppointments'=>  $acceptingAppointments ?? 'Accepting clients',
-                    ])
-                );
+                $acceptingAppointments = $crawler->filter('.accepting-appointments');
+                $isAcceptingAppointments = $acceptingAppointments->count()>0 ? $acceptingAppointments->text() : null;
+
+                $payload = [
+                    'hash' => $hash,
+                    'title' => $title,
+                    'subtitle' => $subtitle,
+                    'image' => str_replace(
+                        'https://',
+                        'https://i1.wp.com/',
+                        $image ?? 'https://i.imgur.com/D77KqTJ.png'
+                    ),
+                    'statement' => $statement,
+                    'contact' => trim(str_replace("\u{a0}", '', $contact)),
+                    'location' => trim(str_replace(['Office is near:', "\u{a0}"], ['', ' '], $location)),
+                    'offersOnlineTherapy' => ('Offers online therapy' === $offersOnlineTherapy)
+                        ? 'In-person/Online therapy'
+                        : 'In-person therapy',
+                    'acceptingAppointments' => $isAcceptingAppointments ?? 'Accepting clients',
+                ];
+
+                dump($payload);
+
+                return Therapist::withTrashed()->updateOrCreate([
+                    'hash'=> $hash,
+                ], $payload);
             });
     } while (--$page);
-})();
+})(\implode(DIRECTORY_SEPARATOR,[__DIR__ , 'vendor','autoload.php']));
