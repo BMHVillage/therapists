@@ -19,9 +19,7 @@
     "homepage": "https://github.com/bmhv/therapists",
     "support": {
         "issues": "https://github.com/bmhv/therapists/issues",
-        "forum": "https://github.com/bmhv/therapists/discussions",
         "source": "https://github.com/bmhv/therapists",
-        "docs": "https://github.com/bmhv/therapists",
         "rss": "https://github.com/bmhv/therapists/releases.atom",
         "security": "https://github.com/bmhv/therapists/security/advisories/new"
     },
@@ -31,7 +29,11 @@
             "url": "https://github.com/sponsors/ghostwriter"
         }
     ],
-    "_comment": "#BlackLivesMatter",
+    "_comment": [
+        "#BlackLivesMatter",
+        "#FreePalestine",
+        "#StandWithUkraine"
+    ],
     "require": {
         "php": ">=8.3",
         "ghostwriter/container": "^4.0.3",
@@ -39,30 +41,40 @@
         "ghostwriter/option": "^1.5.1",
         "ghostwriter/uuid": "^1.0.1",
         "guzzlehttp/guzzle": "^7.9.2",
-        "illuminate/container": "^11.36.1",
-        "illuminate/database": "^11.36.1",
-        "illuminate/events": "^11.36.1",
-        "illuminate/filesystem": "^11.36.1",
-        "illuminate/http": "^11.36.1",
-        "phpoffice/phpspreadsheet": "^2.3.4",
+        "illuminate/container": "^11.37.0",
+        "illuminate/database": "^11.37.0",
+        "illuminate/events": "^11.37.0",
+        "illuminate/filesystem": "^11.37.0",
+        "illuminate/http": "^11.37.0",
+        "phpoffice/phpspreadsheet": "^3.7.0",
         "symfony/css-selector": "^7.2.0",
         "symfony/dom-crawler": "^7.2.0",
-        "symplify/easy-coding-standard": "^12.5.4"
+        "symplify/easy-coding-standard": "^12.5.5"
     },
     "require-dev": {
-        "ghostwriter/coding-standard": "dev-main"
+        "ghostwriter/coding-standard": "dev-main",
+        "ghostwriter/psalm-plugin": "dev-main"
     },
     "replace": {},
     "minimum-stability": "stable",
     "prefer-stable": true,
     "autoload": {
         "psr-4": {
-            "Ghostwriter\\TnTherapists\\": "."
+            "Ghostwriter\\TnTherapists\\": "src/"
         }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Tests\\Unit\\": "tests/unit/"
+        },
+        "exclude-from-classmap": [
+            "tests/fixture/"
+        ]
     },
     "config": {
         "allow-plugins": {
-            "ghostwriter/coding-standard": true
+            "ghostwriter/coding-standard": true,
+            "ghostwriter/handrail": true
         },
         "classmap-authoritative": false,
         "discard-changes": true,
