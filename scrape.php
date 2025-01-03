@@ -90,8 +90,15 @@ use const STDERR;
     do {
         $response = $http->get($api, [
             'category' => 'african-american',
-            'page' => $page,
+            'page' => --$page,
         ]);
+
+        if ($response->failed()) {
+            fwrite(STDERR, 'Failed to fetch data from the API' . PHP_EOL);
+            fwrite(STDERR, $response->body() . PHP_EOL);
+            exit(1);
+        }
+
         $crawler = new Crawler($response->body());
         $crawler->filter('div.results-row')
             ->each(static function (Crawler $crawler) {
@@ -147,5 +154,7 @@ use const STDERR;
                     'hash'=> $hash,
                 ], $payload);
             });
-    } while (--$page);
+
+            sleep(3);
+    } while ($page > 1);
 })(\implode(DIRECTORY_SEPARATOR,[__DIR__ , 'vendor','autoload.php']));
