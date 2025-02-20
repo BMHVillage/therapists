@@ -35,21 +35,19 @@
         "#StandWithUkraine"
     ],
     "require": {
-        "php": ">=8.3",
-        "ghostwriter/container": "^4.0.3",
+        "php": ">=8.4",
+        "ghostwriter/container": "^4.0.5",
         "ghostwriter/event-dispatcher": "^5.0.2",
-        "ghostwriter/option": "^1.5.1",
-        "ghostwriter/uuid": "^1.0.1",
+        "ghostwriter/uuid": "^1.0.2",
         "guzzlehttp/guzzle": "^7.9.2",
-        "illuminate/container": "^11.37.0",
-        "illuminate/database": "^11.37.0",
-        "illuminate/events": "^11.37.0",
-        "illuminate/filesystem": "^11.37.0",
-        "illuminate/http": "^11.37.0",
-        "phpoffice/phpspreadsheet": "^3.8.0",
+        "illuminate/container": "^11.43.2",
+        "illuminate/database": "^11.43.2",
+        "illuminate/events": "^11.43.2",
+        "illuminate/filesystem": "^11.43.2",
+        "illuminate/http": "^11.43.2",
+        "phpoffice/phpspreadsheet": "^3.9.1",
         "symfony/css-selector": "^7.2.0",
-        "symfony/dom-crawler": "^7.2.0",
-        "symplify/easy-coding-standard": "^12.5.5"
+        "symfony/dom-crawler": "^7.2.3"
     },
     "require-dev": {
         "ghostwriter/coding-standard": "dev-main",
@@ -73,14 +71,13 @@
     },
     "config": {
         "allow-plugins": {
-            "ghostwriter/coding-standard": true,
-            "ghostwriter/handrail": true
+            "ghostwriter/coding-standard": true
         },
         "classmap-authoritative": false,
         "discard-changes": true,
         "optimize-autoloader": true,
         "platform": {
-            "php": "8.3.999"
+            "php": "8.4.999"
         },
         "preferred-install": "dist",
         "prepend-autoloader": true,
