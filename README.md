@@ -834,39 +834,6 @@
 <table style="width: 800px; ">
     <tr>
     <tr style="height: 42px;">
-        <td style="height: 42px;text-align: center;" colspan="3" rowspan="1">Licensed Professional Counselor, MEd, LPCMHSP, LCPC</td>
-    </tr>
-    <td style="align-items: center">
-        <table style="text-align: center;">
-            <tr><td><img style="height: 180px;" alt="762125" src="https://i1.wp.com/photos.psychologytoday.com/95bbdf3c-5e3d-4e29-bbf1-9c268916e6d4/1/320x400.jpeg"></td></tr>
-            <tr><td style="width: 171px;height: 42px;font-weight: bold">Aunge Cory</td></tr>
-        </table>
-    </td>
-    <td>
-        <table style="width: 480px;">
-            <tr>
-                <td width="600px">One of my biggest struggles in life has been finding ways to show up authentically. As a Black, non-binary and queer person, finding spaces that validate core aspects of my identity have been challenging. It’s an honor to hold space for individuals who are struggling to find their voice and place in the world. My goal as a therapist is to provide a safe space where you feel accepted, respected, and understood. I enjoy working with individuals from marginalized and underserved communities (BIPOC, LGBTQ+). My practice is intersectional, collaborative, based in a social justice framework, and sex positive.</td>
-            </tr>
-        </table>
-        <table style="width: 480px;">
-            <tr style="height: 42px;">
-                <td style="text-align: center;width: 480px;">In-person therapy</td>
-                <td style="text-align: center;width: 480px;">Accepting clients</td>
-            </tr>
-        </table>
-        <table style="width: 480px;">
-            <tr style="height: 42px;">
-                <td style="text-align: center;width: 480px;">Online Only</td>
-                <td style="text-align: center;width: 480px;">(615) 392-1879</td>
-            </tr>
-        </table>
-    </td>
-    </tr>
-</table>
-
-<table style="width: 800px; ">
-    <tr>
-    <tr style="height: 42px;">
         <td style="height: 42px;text-align: center;" colspan="3" rowspan="1">Pre-Licensed Professional, MS</td>
     </tr>
     <td style="align-items: center">
@@ -6963,39 +6930,6 @@
             <tr style="height: 42px;">
                 <td style="text-align: center;width: 480px;">Nashville, TN 37209</td>
                 <td style="text-align: center;width: 480px;"></td>
-            </tr>
-        </table>
-    </td>
-    </tr>
-</table>
-
-<table style="width: 800px; ">
-    <tr>
-    <tr style="height: 42px;">
-        <td style="height: 42px;text-align: center;" colspan="3" rowspan="1">Marriage & Family Therapist, LMFT, LCMFT</td>
-    </tr>
-    <td style="align-items: center">
-        <table style="text-align: center;">
-            <tr><td><img style="height: 180px;" alt="1088415" src="https://i1.wp.com/photos.psychologytoday.com/26c1bd50-1721-4cf3-ae3f-f1ad4ec1fca0/2/320x400.jpeg"></td></tr>
-            <tr><td style="width: 171px;height: 42px;font-weight: bold">Sasha Cory</td></tr>
-        </table>
-    </td>
-    <td>
-        <table style="width: 480px;">
-            <tr>
-                <td width="600px">Systems of oppression affect all of us. As a therapist, my goal is to provide a safe and affirming space to help you learn to navigate these systems. I am a queer person of color and I work with people of all genders and sexualities. The larger systems we interact with impact our daily life and how we relate to others in relationship. If you struggle with the relationships in your life, I am here to help. I provide an affirming space to people from poly, divorced, and blended families. My practice is sex positive. I work with individuals, couples, and families. I am experienced in working with Trans, BIPOC, and Enby identities.</td>
-            </tr>
-        </table>
-        <table style="width: 480px;">
-            <tr style="height: 42px;">
-                <td style="text-align: center;width: 480px;">In-person therapy</td>
-                <td style="text-align: center;width: 480px;">Accepting clients</td>
-            </tr>
-        </table>
-        <table style="width: 480px;">
-            <tr style="height: 42px;">
-                <td style="text-align: center;width: 480px;">Online Only</td>
-                <td style="text-align: center;width: 480px;">(629) 318-0308</td>
             </tr>
         </table>
     </td>
