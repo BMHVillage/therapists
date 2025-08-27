@@ -36,25 +36,24 @@
     ],
     "require": {
         "php": ">=8.4",
-        "ghostwriter/container": "^4.0.5",
-        "ghostwriter/event-dispatcher": "^5.0.2",
-        "ghostwriter/uuid": "^1.0.2",
-        "guzzlehttp/guzzle": "^7.9.2",
-        "illuminate/container": "^11.43.2",
-        "illuminate/database": "^11.43.2",
-        "illuminate/events": "^11.43.2",
-        "illuminate/filesystem": "^11.43.2",
-        "illuminate/http": "^11.43.2",
-        "phpoffice/phpspreadsheet": "^3.9.1",
-        "symfony/css-selector": "^7.2.0",
-        "symfony/dom-crawler": "^7.2.3"
+        "ghostwriter/container": "~5.0.1",
+        "ghostwriter/event-dispatcher": "~5.0.3",
+        "ghostwriter/uuid": "~1.0.3",
+        "guzzlehttp/guzzle": "~7.10.0",
+        "illuminate/container": "~12.26.2",
+        "illuminate/database": "~12.26.2",
+        "illuminate/events": "~12.26.2",
+        "illuminate/filesystem": "~12.26.2",
+        "illuminate/http": "~12.26.2",
+        "phpoffice/phpspreadsheet": "~5.0.0",
+        "symfony/css-selector": "~7.3.0",
+        "symfony/dom-crawler": "~7.3.1"
     },
     "require-dev": {
         "ghostwriter/coding-standard": "dev-main",
         "ghostwriter/psalm-plugin": "dev-main"
     },
     "replace": {},
-    "minimum-stability": "stable",
     "prefer-stable": true,
     "autoload": {
         "psr-4": {
