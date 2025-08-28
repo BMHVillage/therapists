@@ -1022,7 +1022,7 @@
         },
         {
             "name": "illuminate/collections",
-            "version": "v12.26.2",
+            "version": "v12.26.3",
             "source": {
                 "type": "git",
                 "url": "https://github.com/illuminate/collections.git",
@@ -1081,7 +1081,7 @@
         },
         {
             "name": "illuminate/conditionable",
-            "version": "v12.26.2",
+            "version": "v12.26.3",
             "source": {
                 "type": "git",
                 "url": "https://github.com/illuminate/conditionable.git",
@@ -1188,7 +1188,7 @@
         },
         {
             "name": "illuminate/contracts",
-            "version": "v12.26.2",
+            "version": "v12.26.3",
             "source": {
                 "type": "git",
                 "url": "https://github.com/illuminate/contracts.git",
@@ -1362,7 +1362,7 @@
         },
         {
             "name": "illuminate/filesystem",
-            "version": "v12.26.2",
+            "version": "v12.26.3",
             "source": {
                 "type": "git",
                 "url": "https://github.com/illuminate/filesystem.git",
@@ -1491,7 +1491,7 @@
         },
         {
             "name": "illuminate/macroable",
-            "version": "v12.26.2",
+            "version": "v12.26.3",
             "source": {
                 "type": "git",
                 "url": "https://github.com/illuminate/macroable.git",
@@ -1646,7 +1646,7 @@
         },
         {
             "name": "illuminate/support",
-            "version": "v12.26.2",
+            "version": "v12.26.3",
             "source": {
                 "type": "git",
                 "url": "https://github.com/illuminate/support.git",
@@ -6902,7 +6902,7 @@
     "platform": {
         "php": ">=8.4"
     },
-    "platform-dev": [],
+    "platform-dev": {},
     "platform-overrides": {
         "php": "8.4.999"
     },
