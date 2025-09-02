@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "bfb34cd52669dba603e57090e026ba78",
+    "content-hash": "7d22b5af33d68ae38859df3c800b8786",
     "packages": [
         {
             "name": "brick/math",
@@ -1429,16 +1429,16 @@
         },
         {
             "name": "illuminate/http",
-            "version": "v12.26.3",
+            "version": "v12.26.4",
             "source": {
                 "type": "git",
                 "url": "https://github.com/illuminate/http.git",
-                "reference": "1cda14d99bf1ffac6276e84a3eb0fefc6ccd7e0c"
+                "reference": "5788a1acbb83a232a4e70b92565f7ffc3995c669"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/illuminate/http/zipball/1cda14d99bf1ffac6276e84a3eb0fefc6ccd7e0c",
-                "reference": "1cda14d99bf1ffac6276e84a3eb0fefc6ccd7e0c",
+                "url": "https://api.github.com/repos/illuminate/http/zipball/5788a1acbb83a232a4e70b92565f7ffc3995c669",
+                "reference": "5788a1acbb83a232a4e70b92565f7ffc3995c669",
                 "shasum": ""
             },
             "require": {
@@ -1454,8 +1454,8 @@
                 "symfony/http-foundation": "^7.2.0",
                 "symfony/http-kernel": "^7.2.0",
                 "symfony/mime": "^7.2.0",
-                "symfony/polyfill-php83": "^1.31",
-                "symfony/polyfill-php85": "^1.31"
+                "symfony/polyfill-php83": "^1.33",
+                "symfony/polyfill-php85": "^1.33"
             },
             "suggest": {
                 "ext-gd": "Required to use Illuminate\\Http\\Testing\\FileFactory::image()."
@@ -1487,7 +1487,7 @@
                 "issues": "https://github.com/laravel/framework/issues",
                 "source": "https://github.com/laravel/framework"
             },
-            "time": "2025-08-26T13:48:16+00:00"
+            "time": "2025-08-27T13:40:04+00:00"
         },
         {
             "name": "illuminate/macroable",

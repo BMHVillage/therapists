@@ -44,7 +44,7 @@
         "illuminate/database": "~12.26.3",
         "illuminate/events": "~12.26.4",
         "illuminate/filesystem": "~12.26.4",
-        "illuminate/http": "~12.26.3",
+        "illuminate/http": "~12.26.4",
         "phpoffice/phpspreadsheet": "~5.0.0",
         "symfony/css-selector": "~7.3.0",
         "symfony/dom-crawler": "~7.3.3"
