@@ -47,13 +47,12 @@
         "illuminate/http": "~12.26.3",
         "phpoffice/phpspreadsheet": "~5.0.0",
         "symfony/css-selector": "~7.3.0",
-        "symfony/dom-crawler": "~7.3.1"
+        "symfony/dom-crawler": "~7.3.3"
     },
     "require-dev": {
         "ghostwriter/coding-standard": "dev-main",
         "ghostwriter/psalm-plugin": "dev-main"
     },
-    "replace": {},
     "prefer-stable": true,
     "autoload": {
         "psr-4": {
