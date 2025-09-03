@@ -48,7 +48,7 @@
         "illuminate/http": "~12.27.1",
         "phpoffice/phpspreadsheet": "~5.0.0",
         "symfony/css-selector": "~7.3.0",
-        "symfony/dom-crawler": "~2.0.25"
+        "symfony/dom-crawler": "~7.3.3"
     },
     "require-dev": {
         "ghostwriter/coding-standard": "dev-main",
