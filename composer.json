@@ -36,7 +36,8 @@
         "#StopGenocide"
     ],
     "require": {
-        "php": ">=8.4",
+        "php": "~8.4.0 || ~8.5.0",
+        "ext-mbstring": "*",
         "ghostwriter/container": "~5.0.1",
         "ghostwriter/event-dispatcher": "~5.0.3",
         "ghostwriter/uuid": "~1.0.3",
@@ -51,6 +52,7 @@
         "symfony/dom-crawler": "~7.3.3"
     },
     "require-dev": {
+        "ext-xdebug": "*",
         "ghostwriter/coding-standard": "dev-main",
         "ghostwriter/psalm-plugin": "dev-main"
     },
