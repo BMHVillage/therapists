@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "831ef07a4b39d183d93e34bfafdad9d0",
+    "content-hash": "77530b5f59529dfce836e7bad40a35b9",
     "packages": [
         {
             "name": "brick/math",
@@ -1362,7 +1362,7 @@
         },
         {
             "name": "illuminate/filesystem",
-            "version": "v12.28.0",
+            "version": "v12.28.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/illuminate/filesystem.git",
