@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "88f6b43d4420c88c723a930af8daa7ec",
+    "content-hash": "1acc8ab4858532bde33e6f5f1301dd27",
     "packages": [
         {
             "name": "brick/math",
@@ -1429,7 +1429,7 @@
         },
         {
             "name": "illuminate/http",
-            "version": "v12.29.0",
+            "version": "v12.30.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/illuminate/http.git",
