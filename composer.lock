@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "036112943a8106650a0bfa6109f20900",
+    "content-hash": "f8e748ed37cc57b682f26c1292a17461",
     "packages": [
         {
             "name": "brick/math",
@@ -1236,7 +1236,7 @@
         },
         {
             "name": "illuminate/database",
-            "version": "v12.30.0",
+            "version": "v12.30.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/illuminate/database.git",
