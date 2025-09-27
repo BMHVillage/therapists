@@ -1,7 +1,7 @@
 {
     "name": "bmhv/therapists",
     "description": "TN Therapists",
-    "license": "BSD-3-Clause",
+    "license": "BSD-4-Clause",
     "type": "library",
     "keywords": [
         "ghostwriter",
