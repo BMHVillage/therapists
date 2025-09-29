@@ -64,7 +64,9 @@
     },
     "autoload-dev": {
         "psr-4": {
-            "Tests\\Unit\\": "tests/unit/"
+            "Tests\\PHPT\\": "tests/PHPT/",
+            "Tests\\Unit\\": "tests/Unit/",
+            "\\": "tests/Fixture/"
         },
         "exclude-from-classmap": [
             "tests/fixture/"
