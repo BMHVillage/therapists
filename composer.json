@@ -69,7 +69,8 @@
             "\\": "tests/Fixture/"
         },
         "exclude-from-classmap": [
-            "tests/fixture/"
+            "/tests/",
+            "/tests/fixture/"
         ]
     },
     "config": {
