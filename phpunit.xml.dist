@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <phpunit xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-         xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/sebastianbergmann/phpunit/11.5/phpunit.xsd"
+         xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/sebastianbergmann/phpunit/12.4/phpunit.xsd"
          beStrictAboutChangesToGlobalState="true"
          beStrictAboutCoverageMetadata="true"
          beStrictAboutOutputDuringTests="true"
@@ -25,7 +25,7 @@
          requireCoverageMetadata="true"
          stopOnFailure="false"
 >
-    <coverage>
+    <coverage pathCoverage="true" disableCodeCoverageIgnore="true">
         <report>
             <html outputDirectory=".cache/phpunit/coverage-html"/>
             <clover outputFile=".cache/phpunit/clover.xml"/>
@@ -42,8 +42,8 @@
     </source>
     <testsuites>
         <testsuite name="default">
-            <directory>tests/unit</directory>
-            <exclude>tests/fixture</exclude>
+            <directory>tests/Unit</directory>
+            <exclude>tests/Fixture</exclude>
         </testsuite>
     </testsuites>
 </phpunit>
