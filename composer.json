@@ -43,7 +43,7 @@
         "ghostwriter/uuid": "^1.0.3",
         "guzzlehttp/guzzle": "^7.10.0",
         "illuminate/container": "^12.33.0",
-        "illuminate/database": "^12.32.5",
+        "illuminate/database": "^12.33.0",
         "illuminate/events": "^12.33.0",
         "illuminate/filesystem": "^12.32.5",
         "illuminate/http": "^12.32.5",
