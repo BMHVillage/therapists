@@ -44,7 +44,7 @@
         "guzzlehttp/guzzle": "^7.10.0",
         "illuminate/container": "^12.36.0",
         "illuminate/database": "^12.36.0",
-        "illuminate/events": "^12.35.1",
+        "illuminate/events": "^12.36.0",
         "illuminate/filesystem": "^12.35.1",
         "illuminate/http": "^12.35.1",
         "phpoffice/phpspreadsheet": "^5.2.0",
