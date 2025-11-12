@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "76c4763454026b8f3e2de72073126e20",
+    "content-hash": "b8dac81a848df120e21acdf0940637b7",
     "packages": [
         {
             "name": "brick/math",
@@ -1127,7 +1127,7 @@
         },
         {
             "name": "illuminate/container",
-            "version": "v12.37.0",
+            "version": "v12.38.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/illuminate/container.git",
