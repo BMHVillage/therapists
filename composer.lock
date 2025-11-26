@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "0b6ae6450b7b793bbe582aaff37e4428",
+    "content-hash": "57977f2a414644f2b0dad4db4655ce7e",
     "packages": [
         {
             "name": "brick/math",
@@ -1429,16 +1429,16 @@
         },
         {
             "name": "illuminate/http",
-            "version": "v12.38.1",
+            "version": "v12.40.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/illuminate/http.git",
-                "reference": "71f35b52941ce2ddb22b3499f41a5546d08bb153"
+                "reference": "b88643505c605f31f53a2bb3fdc8c0398b185d68"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/illuminate/http/zipball/71f35b52941ce2ddb22b3499f41a5546d08bb153",
-                "reference": "71f35b52941ce2ddb22b3499f41a5546d08bb153",
+                "url": "https://api.github.com/repos/illuminate/http/zipball/b88643505c605f31f53a2bb3fdc8c0398b185d68",
+                "reference": "b88643505c605f31f53a2bb3fdc8c0398b185d68",
                 "shasum": ""
             },
             "require": {
@@ -1487,7 +1487,7 @@
                 "issues": "https://github.com/laravel/framework/issues",
                 "source": "https://github.com/laravel/framework"
             },
-            "time": "2025-11-12T16:45:01+00:00"
+            "time": "2025-11-24T21:57:52+00:00"
         },
         {
             "name": "illuminate/macroable",
@@ -3295,16 +3295,16 @@
         },
         {
             "name": "symfony/http-foundation",
-            "version": "v7.3.3",
+            "version": "v7.3.7",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/http-foundation.git",
-                "reference": "7475561ec27020196c49bb7c4f178d33d7d3dc00"
+                "reference": "db488a62f98f7a81d5746f05eea63a74e55bb7c4"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/http-foundation/zipball/7475561ec27020196c49bb7c4f178d33d7d3dc00",
-                "reference": "7475561ec27020196c49bb7c4f178d33d7d3dc00",
+                "url": "https://api.github.com/repos/symfony/http-foundation/zipball/db488a62f98f7a81d5746f05eea63a74e55bb7c4",
+                "reference": "db488a62f98f7a81d5746f05eea63a74e55bb7c4",
                 "shasum": ""
             },
             "require": {
@@ -3354,7 +3354,7 @@
             "description": "Defines an object-oriented layer for the HTTP specification",
             "homepage": "https://symfony.com",
             "support": {
-                "source": "https://github.com/symfony/http-foundation/tree/v7.3.3"
+                "source": "https://github.com/symfony/http-foundation/tree/v7.3.7"
             },
             "funding": [
                 {
@@ -3374,7 +3374,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2025-08-20T08:04:18+00:00"
+            "time": "2025-11-08T16:41:12+00:00"
         },
         {
             "name": "symfony/http-kernel",
