@@ -6,7 +6,7 @@
 
 ## Credits
 
-- [BMHVillage](https://BMHV.org) @BMHVillage
+- [BMHVillage](https://BMHV.org) [@BMHVillage](https://github.com/BMHVillage)
 - [Nathanael Esayeas](https://github.com/ghostwriter)
 - [All Contributors](https://github.com/ghostwriter/tn-therapists/contributors)
 
