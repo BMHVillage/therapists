@@ -13,7 +13,3 @@
 ## License
 
 The BSD-3-Clause. Please see [License File](./LICENSE) for more information.
-
-## Sponsors
-
-[[`Become a GitHub Sponsor`](https://github.com/sponsors/ghostwriter)]
