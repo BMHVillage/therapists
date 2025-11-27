@@ -104,8 +104,8 @@
             }
         },
         "thanks": {
-            "name": "bmhv/therapists",
-            "url": "https://github.com/bmhv/therapists"
+            "url": "https://github.com/bmhv/therapists",
+            "name": "bmhv/therapists"
         }
     },
     "scripts": {
