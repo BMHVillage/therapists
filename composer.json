@@ -2,10 +2,13 @@
     "name": "bmhv/therapists",
     "description": "TN Therapists",
     "license": "BSD-4-Clause",
-    "type": "library",
+    "type": "project",
     "keywords": [
         "ghostwriter",
-        "tn-therapists",
+        "bmhv",
+        "black-mental-health-village",
+        "mental-health",
+        "therapists",
         "black-lives-matter"
     ],
     "authors": [
@@ -38,15 +41,15 @@
     "require": {
         "php": "~8.4.0 || ~8.5.0",
         "ext-mbstring": "*",
-        "ghostwriter/container": "^5.0.1",
-        "ghostwriter/event-dispatcher": "^5.0.3",
-        "ghostwriter/uuid": "^1.0.3",
+        "ghostwriter/config": "^2.0.1",
+        "ghostwriter/console": "^0.1.2",
+        "ghostwriter/container": "^6.0.1",
+        "ghostwriter/filesystem": "^0.1.2",
         "guzzlehttp/guzzle": "^7.10.0",
-        "illuminate/container": "^12.40.2",
+        "illuminate/collections": "^12.40.2",
+        "illuminate/contracts": "^12.40.2",
         "illuminate/database": "^12.40.2",
         "illuminate/events": "^12.40.2",
-        "illuminate/filesystem": "^12.40.2",
-        "illuminate/http": "^12.40.2",
         "phpoffice/phpspreadsheet": "^5.3.0",
         "symfony/css-selector": "^8.0.0",
         "symfony/dom-crawler": "^8.0.0"
@@ -54,13 +57,19 @@
     "require-dev": {
         "ext-xdebug": "*",
         "ghostwriter/coding-standard": "dev-main",
-        "ghostwriter/psalm-plugin": "dev-main"
+        "ghostwriter/psalm-plugin": "dev-main",
+        "symfony/var-dumper": "^8.0.0"
     },
     "prefer-stable": true,
     "autoload": {
         "psr-4": {
-            "Ghostwriter\\TnTherapists\\": "src/"
-        }
+            "BlackMentalHealthVillage\\Therapists\\": "src/",
+            "Database\\": "database/"
+        },
+        "files": [
+            "src/constants.php",
+            "src/functions.php"
+        ]
     },
     "autoload-dev": {
         "psr-4": {
@@ -69,6 +78,9 @@
         },
         "exclude-from-classmap": ["/tests/"]
     },
+    "bin": [
+        "bin/console"
+    ],
     "config": {
         "allow-plugins": {
             "ghostwriter/coding-standard": true
@@ -85,6 +97,17 @@
         "sort-packages": true,
         "use-parent-dir": false
     },
+    "extra": {
+        "ghostwriter": {
+            "container": {
+                "definition": "BlackMentalHealthVillage\\Therapists\\Container\\TherapistsDefinition"
+            }
+        },
+        "thanks": {
+            "name": "bmhv/therapists",
+            "url": "https://github.com/bmhv/therapists"
+        }
+    },
     "scripts": {
         "cache:clear": "rm -rf ./.cache/*",
         "check": ["@cache:clear", "vendor/ghostwriter/coding-standard/tools/phar/composer validate", "@test"],
@@ -98,11 +121,5 @@
         "test": ["@phpunit", "@infection"],
         "unused": "vendor/ghostwriter/coding-standard/tools/phar/composer-unused --no-interaction --ansi",
         "xdebug": "@putenv XDEBUG_MODE=coverage"
-    },
-    "extra": {
-        "thanks": {
-            "url": "https://github.com/bmhv/therapists",
-            "name": "bmhv/therapists"
-        }
     }
 }

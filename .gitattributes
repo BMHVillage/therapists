@@ -7,7 +7,6 @@
 *.ico binary
 *.jpeg binary
 *.jpg binary
-*.lock text -diff
 *.md text diff=markdown
 *.php text eol=lf diff=php
 *.phpt text eol=lf diff=php
