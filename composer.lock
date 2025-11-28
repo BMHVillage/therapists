@@ -4238,42 +4238,68 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/ghostwriter/coding-standard.git",
-                "reference": "37e10b19a241ffac3d608c033bc6fc56865712e3"
+                "reference": "776cfbdf9f48c7cff70ef4dc836d06de24266e99"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/ghostwriter/coding-standard/zipball/37e10b19a241ffac3d608c033bc6fc56865712e3",
-                "reference": "37e10b19a241ffac3d608c033bc6fc56865712e3",
+                "url": "https://api.github.com/repos/ghostwriter/coding-standard/zipball/776cfbdf9f48c7cff70ef4dc836d06de24266e99",
+                "reference": "776cfbdf9f48c7cff70ef4dc836d06de24266e99",
                 "shasum": ""
             },
             "require": {
                 "composer-plugin-api": "~2.9.0",
                 "composer-runtime-api": "~2.2.2",
                 "composer/composer": "^2.9.2",
+                "ext-apcu": "*",
+                "ext-bcmath": "*",
                 "ext-ctype": "*",
                 "ext-curl": "*",
                 "ext-dom": "*",
+                "ext-ds": "*",
+                "ext-event": "*",
+                "ext-exif": "*",
+                "ext-fileinfo": "*",
                 "ext-filter": "*",
                 "ext-gd": "*",
+                "ext-gettext": "*",
                 "ext-hash": "*",
                 "ext-iconv": "*",
+                "ext-igbinary": "*",
                 "ext-intl": "*",
                 "ext-json": "*",
                 "ext-libxml": "*",
                 "ext-mbstring": "*",
+                "ext-memcache": "*",
+                "ext-mysqli": "*",
                 "ext-openssl": "*",
+                "ext-pcntl": "*",
+                "ext-pdo": "*",
+                "ext-pdo_mysql": "*",
+                "ext-pdo_pgsql": "*",
+                "ext-pdo_sqlite": "*",
+                "ext-pgsql": "*",
                 "ext-phar": "*",
+                "ext-posix": "*",
+                "ext-protobuf": "*",
                 "ext-readline": "*",
+                "ext-redis": "*",
                 "ext-session": "*",
                 "ext-simplexml": "*",
                 "ext-sockets": "*",
                 "ext-sodium": "*",
+                "ext-sqlite3": "*",
                 "ext-tokenizer": "*",
                 "ext-xml": "*",
+                "ext-xmlreader": "*",
                 "ext-xmlwriter": "*",
+                "ext-xsl": "*",
+                "ext-yaml": "*",
+                "ext-zend-opcache": "*",
+                "ext-zip": "*",
                 "ext-zlib": "*",
+                "ghostwriter/console": "^0.1.2",
                 "php": "~8.4.0 || ~8.5.0",
-                "symfony/console": "^8.0.0"
+                "symfony/process": "^8.0.0"
             },
             "conflict": {
                 "pestphp/pest": "*"
@@ -4347,6 +4373,9 @@
                             "zetacomponents",
                             "zf-commons"
                         ]
+                    },
+                    "container": {
+                        "definition": "Ghostwriter\\CodingStandard\\Container\\CodingStandardDefinition"
                     }
                 },
                 "plugin-optional": false,
@@ -4391,7 +4420,7 @@
                     "type": "github"
                 }
             ],
-            "time": "2025-11-27T10:34:03+00:00"
+            "time": "2025-11-28T01:32:02+00:00"
         },
         {
             "name": "ghostwriter/psalm-plugin",
