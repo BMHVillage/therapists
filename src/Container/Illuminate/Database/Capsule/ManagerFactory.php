@@ -6,7 +6,7 @@ namespace BlackMentalHealthVillage\Therapists\Container\Illuminate\Database\Caps
 
 use Ghostwriter\Container\Interface\ContainerInterface;
 use Ghostwriter\Container\Interface\Service\FactoryInterface;
-use Illuminate\Contracts\Container\Container;
+use Illuminate\Container\Container;
 use Illuminate\Database\Capsule\Manager;
 use Override;
 use Throwable;
