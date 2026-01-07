@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "9519bb7f51ffbeea40fdc78f51910904",
+    "content-hash": "5f7a9d0444245516a22ae8a3de5261fe",
     "packages": [
         {
             "name": "brick/math",
@@ -1265,7 +1265,7 @@
         },
         {
             "name": "illuminate/events",
-            "version": "v12.45.1",
+            "version": "v12.45.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/illuminate/events.git",
