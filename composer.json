@@ -49,7 +49,7 @@
         "illuminate/collections": "^12.46.0",
         "illuminate/contracts": "^12.46.0",
         "illuminate/database": "^12.46.0",
-        "illuminate/events": "^12.46.0",
+        "illuminate/events": "^12.47.0",
         "phpoffice/phpspreadsheet": "^5.4.0",
         "symfony/css-selector": "^8.0.0",
         "symfony/dom-crawler": "^8.0.1"
