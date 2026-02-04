@@ -48,7 +48,7 @@
         "guzzlehttp/guzzle": "^7.10.0",
         "illuminate/collections": "^12.50.0",
         "illuminate/contracts": "^12.50.0",
-        "illuminate/database": "^12.49.0",
+        "illuminate/database": "^12.50.0",
         "illuminate/events": "^12.50.0",
         "phpoffice/phpspreadsheet": "^5.4.0",
         "symfony/css-selector": "^8.0.0",
