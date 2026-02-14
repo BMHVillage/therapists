@@ -84,7 +84,7 @@
     "config": {
         "allow-plugins": {
             "ghostwriter/coding-standard": true,
-            "infection/extension-installer": "true"
+            "infection/extension-installer": true
         },
         "classmap-authoritative": false,
         "discard-changes": true,
