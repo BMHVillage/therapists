@@ -34,5 +34,9 @@
             <directory>tests/Unit</directory>
             <exclude>tests/Fixture</exclude>
         </testsuite>
+        <testsuite name="phpt">
+            <directory suffix=".phpt">tests/PHPT</directory>
+            <exclude>tests/Fixture</exclude>
+        </testsuite>
     </testsuites>
 </phpunit>
