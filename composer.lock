@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "59cb1de79dacc04a906e9d4808d8c623",
+    "content-hash": "c953708237ad5d35e28bf1531bf05396",
     "packages": [
         {
             "name": "brick/math",
@@ -2533,16 +2533,16 @@
         },
         {
             "name": "symfony/css-selector",
-            "version": "v8.0.0",
+            "version": "v8.0.6",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/css-selector.git",
-                "reference": "6225bd458c53ecdee056214cb4a2ffaf58bd592b"
+                "reference": "2a178bf80f05dbbe469a337730eba79d61315262"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/css-selector/zipball/6225bd458c53ecdee056214cb4a2ffaf58bd592b",
-                "reference": "6225bd458c53ecdee056214cb4a2ffaf58bd592b",
+                "url": "https://api.github.com/repos/symfony/css-selector/zipball/2a178bf80f05dbbe469a337730eba79d61315262",
+                "reference": "2a178bf80f05dbbe469a337730eba79d61315262",
                 "shasum": ""
             },
             "require": {
@@ -2578,7 +2578,7 @@
             "description": "Converts CSS selectors to XPath expressions",
             "homepage": "https://symfony.com",
             "support": {
-                "source": "https://github.com/symfony/css-selector/tree/v8.0.0"
+                "source": "https://github.com/symfony/css-selector/tree/v8.0.6"
             },
             "funding": [
                 {
@@ -2598,7 +2598,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2025-10-30T14:17:19+00:00"
+            "time": "2026-02-17T13:07:04+00:00"
         },
         {
             "name": "symfony/deprecation-contracts",
@@ -5759,9 +5759,7 @@
     ],
     "aliases": [],
     "minimum-stability": "stable",
-    "stability-flags": {
-        "ghostwriter/coding-standard": 20
-    },
+    "stability-flags": {},
     "prefer-stable": true,
     "prefer-lowest": false,
     "platform": {
