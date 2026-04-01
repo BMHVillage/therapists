@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "7725f6928aca84d36630d4933f43429f",
+    "content-hash": "be8a4abcd4c0965d0374ecd09224ca5d",
     "packages": [
         {
             "name": "brick/math",
@@ -1263,16 +1263,16 @@
         },
         {
             "name": "illuminate/events",
-            "version": "v13.2.0",
+            "version": "v13.3.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/illuminate/events.git",
-                "reference": "a98b4f21b5f42251c869ae7018e4319927d0c870"
+                "reference": "805d4558062e6ba58489aa326700273d4ef92a40"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/illuminate/events/zipball/a98b4f21b5f42251c869ae7018e4319927d0c870",
-                "reference": "a98b4f21b5f42251c869ae7018e4319927d0c870",
+                "url": "https://api.github.com/repos/illuminate/events/zipball/805d4558062e6ba58489aa326700273d4ef92a40",
+                "reference": "805d4558062e6ba58489aa326700273d4ef92a40",
                 "shasum": ""
             },
             "require": {
@@ -1314,7 +1314,7 @@
                 "issues": "https://github.com/laravel/framework/issues",
                 "source": "https://github.com/laravel/framework"
             },
-            "time": "2026-03-18T17:04:23+00:00"
+            "time": "2026-03-30T22:02:57+00:00"
         },
         {
             "name": "illuminate/macroable",
@@ -5659,9 +5659,7 @@
     ],
     "aliases": [],
     "minimum-stability": "stable",
-    "stability-flags": {
-        "ghostwriter/coding-standard": 20
-    },
+    "stability-flags": {},
     "prefer-stable": true,
     "prefer-lowest": false,
     "platform": {
