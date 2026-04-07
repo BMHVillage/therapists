@@ -47,7 +47,7 @@
         "ghostwriter/filesystem": "^0.1.2",
         "guzzlehttp/guzzle": "^7.10.0",
         "illuminate/collections": "^13.3.0",
-        "illuminate/contracts": "^13.3.0",
+        "illuminate/contracts": "^13.4.0",
         "illuminate/database": "^13.3.0",
         "illuminate/events": "^13.3.0",
         "phpoffice/phpspreadsheet": "^5.5.0",
