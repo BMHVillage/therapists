@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "2cc6aeb159018097bb4de6e57f9ece69",
+    "content-hash": "0f774e30d3279a047aba42724d14a7ae",
     "packages": [
         {
             "name": "brick/math",
@@ -305,16 +305,16 @@
         },
         {
             "name": "ghostwriter/config",
-            "version": "2.1.0",
+            "version": "2.1.3",
             "source": {
                 "type": "git",
                 "url": "https://github.com/ghostwriter/config.git",
-                "reference": "34ae491afe5830a32aa568de83039ac8e2db700e"
+                "reference": "75cf15f580cb3da99aae394692a9d2781273778f"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/ghostwriter/config/zipball/34ae491afe5830a32aa568de83039ac8e2db700e",
-                "reference": "34ae491afe5830a32aa568de83039ac8e2db700e",
+                "url": "https://api.github.com/repos/ghostwriter/config/zipball/75cf15f580cb3da99aae394692a9d2781273778f",
+                "reference": "75cf15f580cb3da99aae394692a9d2781273778f",
                 "shasum": ""
             },
             "require": {
@@ -323,9 +323,9 @@
             "require-dev": {
                 "ext-xdebug": "*",
                 "ghostwriter/coding-standard": "dev-main",
-                "ghostwriter/container": "^6.1.1",
+                "ghostwriter/container": "^7.0.0",
                 "mockery/mockery": "^1.6.12",
-                "phpunit/phpunit": "^13.1.3",
+                "phpunit/phpunit": "^13.1.7",
                 "symfony/var-dumper": "^8.0.8"
             },
             "type": "library",
@@ -377,7 +377,7 @@
                     "type": "github"
                 }
             ],
-            "time": "2026-04-14T14:31:04+00:00"
+            "time": "2026-04-21T20:07:07+00:00"
         },
         {
             "name": "ghostwriter/console",
