@@ -45,7 +45,7 @@
         "illuminate/contracts": "^13.5.0",
         "illuminate/database": "^13.5.0",
         "illuminate/events": "^13.6.0",
-        "phpoffice/phpspreadsheet": "^5.6.0",
+        "phpoffice/phpspreadsheet": "^5.7.0",
         "symfony/css-selector": "^8.0.8",
         "symfony/dom-crawler": "^8.0.8"
     },
