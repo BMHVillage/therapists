@@ -41,7 +41,7 @@
         "ghostwriter/container": "^7.0.1",
         "ghostwriter/filesystem": "^0.2.0",
         "guzzlehttp/guzzle": "^7.10.0",
-        "illuminate/collections": "^13.8.0",
+        "illuminate/collections": "^13.9.0",
         "illuminate/contracts": "^13.9.0",
         "illuminate/database": "^13.8.0",
         "illuminate/events": "^13.9.0",
