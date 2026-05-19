@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "3e35c2443560addaff5dcb94fcd7830c",
+    "content-hash": "4a31cda46f8d8173b297cc0e696418ac",
     "packages": [
         {
             "name": "brick/math",
@@ -995,7 +995,7 @@
         },
         {
             "name": "illuminate/collections",
-            "version": "v13.11.0",
+            "version": "v13.11.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/illuminate/collections.git",
