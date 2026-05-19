@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "a9f5eaaa7182738c6435633b1fb3f2fe",
+    "content-hash": "52bdf3caa1f42709d626882e2690a1cc",
     "packages": [
         {
             "name": "brick/math",
@@ -1211,16 +1211,16 @@
         },
         {
             "name": "illuminate/database",
-            "version": "v13.9.0",
+            "version": "v13.11.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/illuminate/database.git",
-                "reference": "c0f1b78ed5e4cbdad0744181050aa689c477124f"
+                "reference": "ef9e28bf483b7af14d3229d0dc6ad0c868fa6afb"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/illuminate/database/zipball/c0f1b78ed5e4cbdad0744181050aa689c477124f",
-                "reference": "c0f1b78ed5e4cbdad0744181050aa689c477124f",
+                "url": "https://api.github.com/repos/illuminate/database/zipball/ef9e28bf483b7af14d3229d0dc6ad0c868fa6afb",
+                "reference": "ef9e28bf483b7af14d3229d0dc6ad0c868fa6afb",
                 "shasum": ""
             },
             "require": {
@@ -1280,7 +1280,7 @@
                 "issues": "https://github.com/laravel/framework/issues",
                 "source": "https://github.com/laravel/framework"
             },
-            "time": "2026-05-10T15:49:54+00:00"
+            "time": "2026-05-19T13:20:43+00:00"
         },
         {
             "name": "illuminate/events",
