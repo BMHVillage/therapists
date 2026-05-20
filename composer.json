@@ -47,7 +47,7 @@
         "illuminate/events": "^13.11.1",
         "phpoffice/phpspreadsheet": "^5.7.0",
         "symfony/css-selector": "^8.0.9",
-        "symfony/dom-crawler": "^8.0.8"
+        "symfony/dom-crawler": "^8.0.12"
     },
     "require-dev": {
         "ext-xdebug": "*",
