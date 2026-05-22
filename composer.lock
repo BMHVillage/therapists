@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "5c2d2fa90444053d55fe09729a0e7a05",
+    "content-hash": "ceaec8d9fb350e8af2057476e91af834",
     "packages": [
         {
             "name": "brick/math",
@@ -980,16 +980,16 @@
         },
         {
             "name": "guzzlehttp/guzzle",
-            "version": "7.10.3",
+            "version": "7.10.4",
             "source": {
                 "type": "git",
                 "url": "https://github.com/guzzle/guzzle.git",
-                "reference": "47ba23c7a55247e2e1b7407aca90e9bbed0d9d86"
+                "reference": "aec528da477062d3af11f51e6b33402be233b21f"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/guzzle/guzzle/zipball/47ba23c7a55247e2e1b7407aca90e9bbed0d9d86",
-                "reference": "47ba23c7a55247e2e1b7407aca90e9bbed0d9d86",
+                "url": "https://api.github.com/repos/guzzle/guzzle/zipball/aec528da477062d3af11f51e6b33402be233b21f",
+                "reference": "aec528da477062d3af11f51e6b33402be233b21f",
                 "shasum": ""
             },
             "require": {
@@ -1087,7 +1087,7 @@
             ],
             "support": {
                 "issues": "https://github.com/guzzle/guzzle/issues",
-                "source": "https://github.com/guzzle/guzzle/tree/7.10.3"
+                "source": "https://github.com/guzzle/guzzle/tree/7.10.4"
             },
             "funding": [
                 {
@@ -1103,7 +1103,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2026-05-20T22:59:19+00:00"
+            "time": "2026-05-22T19:00:53+00:00"
         },
         {
             "name": "guzzlehttp/promises",
@@ -5367,16 +5367,16 @@
     "packages-dev": [
         {
             "name": "boundwize/structarmed",
-            "version": "0.7.5",
+            "version": "0.7.6",
             "source": {
                 "type": "git",
                 "url": "https://github.com/boundwize/structarmed.git",
-                "reference": "6d3e9b3890048fba0277e961f26f0bc08fe00d3f"
+                "reference": "27222c45da6e7c7a0eefac55c6e85359bdb29305"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/boundwize/structarmed/zipball/6d3e9b3890048fba0277e961f26f0bc08fe00d3f",
-                "reference": "6d3e9b3890048fba0277e961f26f0bc08fe00d3f",
+                "url": "https://api.github.com/repos/boundwize/structarmed/zipball/27222c45da6e7c7a0eefac55c6e85359bdb29305",
+                "reference": "27222c45da6e7c7a0eefac55c6e85359bdb29305",
                 "shasum": ""
             },
             "require": {
@@ -5429,7 +5429,7 @@
             ],
             "support": {
                 "issues": "https://github.com/boundwize/structarmed/issues",
-                "source": "https://github.com/boundwize/structarmed/tree/0.7.5"
+                "source": "https://github.com/boundwize/structarmed/tree/0.7.6"
             },
             "funding": [
                 {
@@ -5437,7 +5437,7 @@
                     "type": "github"
                 }
             ],
-            "time": "2026-05-22T06:54:53+00:00"
+            "time": "2026-05-22T14:00:28+00:00"
         },
         {
             "name": "fidry/cpu-core-counter",
@@ -5506,16 +5506,16 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/ghostwriter/coding-standard.git",
-                "reference": "c384125d81e7cee7c8abffe550d972343d377cb9"
+                "reference": "e63da1fe3301a2c50a3e5693fa7e0c9756cbac1f"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/ghostwriter/coding-standard/zipball/c384125d81e7cee7c8abffe550d972343d377cb9",
-                "reference": "c384125d81e7cee7c8abffe550d972343d377cb9",
+                "url": "https://api.github.com/repos/ghostwriter/coding-standard/zipball/e63da1fe3301a2c50a3e5693fa7e0c9756cbac1f",
+                "reference": "e63da1fe3301a2c50a3e5693fa7e0c9756cbac1f",
                 "shasum": ""
             },
             "require": {
-                "boundwize/structarmed": "^0.7.5",
+                "boundwize/structarmed": "^0.7.6",
                 "ext-apcu": "*",
                 "ext-bcmath": "*",
                 "ext-ctype": "*",
@@ -5626,7 +5626,7 @@
                     "type": "github"
                 }
             ],
-            "time": "2026-05-22T07:32:53+00:00"
+            "time": "2026-05-22T16:43:33+00:00"
         },
         {
             "name": "hamcrest/hamcrest-php",
