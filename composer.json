@@ -47,7 +47,7 @@
         "ghostwriter/console": "^0.2.3",
         "ghostwriter/container": "^7.0.1",
         "ghostwriter/filesystem": "^0.2.0",
-        "ghostwriter/http": "^0.1.2",
+        "ghostwriter/http": "^0.2.0",
         "ghostwriter/json": "^3.0.2",
         "guzzlehttp/guzzle": "^7.10.4",
         "illuminate/collections": "^13.11.2",
