@@ -8,16 +8,16 @@
     "packages": [
         {
             "name": "brick/math",
-            "version": "0.17.1",
+            "version": "0.17.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/brick/math.git",
-                "reference": "6aef71a9fbbd1ee7be0e313cd627f8e6f7125a5b"
+                "reference": "8189e751995f9e15729c1aa2f89fa8f166ffe818"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/brick/math/zipball/6aef71a9fbbd1ee7be0e313cd627f8e6f7125a5b",
-                "reference": "6aef71a9fbbd1ee7be0e313cd627f8e6f7125a5b",
+                "url": "https://api.github.com/repos/brick/math/zipball/8189e751995f9e15729c1aa2f89fa8f166ffe818",
+                "reference": "8189e751995f9e15729c1aa2f89fa8f166ffe818",
                 "shasum": ""
             },
             "require": {
@@ -55,7 +55,7 @@
             ],
             "support": {
                 "issues": "https://github.com/brick/math/issues",
-                "source": "https://github.com/brick/math/tree/0.17.1"
+                "source": "https://github.com/brick/math/tree/0.17.2"
             },
             "funding": [
                 {
@@ -63,7 +63,7 @@
                     "type": "github"
                 }
             ],
-            "time": "2026-04-19T20:55:20+00:00"
+            "time": "2026-05-25T20:34:43+00:00"
         },
         {
             "name": "carbonphp/carbon-doctrine-types",
@@ -5309,12 +5309,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/ghostwriter/coding-standard.git",
-                "reference": "eefd6f57c2aecfe81fe28f1faf3891428da5e776"
+                "reference": "2bdc20814da0fd448a4edf5c5250b581d73cf88f"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/ghostwriter/coding-standard/zipball/eefd6f57c2aecfe81fe28f1faf3891428da5e776",
-                "reference": "eefd6f57c2aecfe81fe28f1faf3891428da5e776",
+                "url": "https://api.github.com/repos/ghostwriter/coding-standard/zipball/2bdc20814da0fd448a4edf5c5250b581d73cf88f",
+                "reference": "2bdc20814da0fd448a4edf5c5250b581d73cf88f",
                 "shasum": ""
             },
             "require": {
@@ -5366,7 +5366,7 @@
                 "ext-zlib": "*",
                 "mockery/mockery": "^1.6.12",
                 "php": "~8.4.0 || ~8.5.0",
-                "phpunit/phpunit": "^13.1.11",
+                "phpunit/phpunit": "^13.1.12",
                 "symfony/var-dumper": "^8.0.8"
             },
             "conflict": {
@@ -5429,7 +5429,7 @@
                     "type": "github"
                 }
             ],
-            "time": "2026-05-25T15:06:57+00:00"
+            "time": "2026-05-25T20:46:31+00:00"
         },
         {
             "name": "hamcrest/hamcrest-php",
