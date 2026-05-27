@@ -45,7 +45,7 @@
         "ext-pdo": "*",
         "ghostwriter/config": "^2.1.3",
         "ghostwriter/console": "^0.2.3",
-        "ghostwriter/container": "^7.0.1",
+        "ghostwriter/container": "^7.0.2",
         "ghostwriter/filesystem": "^0.2.0",
         "ghostwriter/http": "^0.2.0",
         "ghostwriter/json": "^3.0.2",
