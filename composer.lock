@@ -1603,7 +1603,7 @@
         },
         {
             "name": "illuminate/pipeline",
-            "version": "v13.11.2",
+            "version": "v13.12.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/illuminate/pipeline.git",
