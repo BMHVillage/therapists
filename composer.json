@@ -62,7 +62,7 @@
         "mezzio/mezzio-fastroute": "^3.14.0",
         "mezzio/mezzio-platesrenderer": "^2.14.0",
         "phpoffice/phpspreadsheet": "^5.7.0",
-        "symfony/css-selector": "^8.0.9",
+        "symfony/css-selector": "^8.1.0",
         "symfony/dom-crawler": "^8.0.12",
         "vlucas/valitron": "^1.4.11"
     },
