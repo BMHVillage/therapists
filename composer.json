@@ -49,7 +49,7 @@
         "ghostwriter/filesystem": "^0.2.0",
         "ghostwriter/http": "^0.2.0",
         "ghostwriter/json": "^3.0.2",
-        "guzzlehttp/guzzle": "^7.10.5",
+        "guzzlehttp/guzzle": "^7.10.6",
         "illuminate/collections": "^13.12.0",
         "illuminate/contracts": "^13.12.0",
         "illuminate/database": "^13.12.0",
