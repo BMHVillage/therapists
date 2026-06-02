@@ -51,7 +51,7 @@
         "ghostwriter/json": "^3.0.2",
         "guzzlehttp/guzzle": "^7.10.6",
         "illuminate/collections": "^13.13.0",
-        "illuminate/contracts": "^13.12.0",
+        "illuminate/contracts": "^13.13.0",
         "illuminate/database": "^13.12.0",
         "illuminate/events": "^13.13.0",
         "laminas/laminas-diactoros": "^3.8.0",
