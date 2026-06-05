@@ -70,7 +70,7 @@
         "ext-xdebug": "*",
         "ghostwriter/coding-standard": "dev-main",
         "mockery/mockery": "^1.6.12",
-        "phpunit/phpunit": "^13.1.14",
+        "phpunit/phpunit": "^13.2.0",
         "symfony/var-dumper": "^8.1.0"
     },
     "prefer-stable": true,
