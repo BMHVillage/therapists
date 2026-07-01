@@ -68,11 +68,11 @@
     },
     "require-dev": {
         "ext-xdebug": "*",
+        "boundwize/structarmed": "^0.14.6",
         "ghostwriter/coding-standard": "dev-main",
         "mockery/mockery": "^1.6.12",
         "phpunit/phpunit": "^13.2.2",
-        "symfony/var-dumper": "^8.1.1",
-        "boundwize/structarmed": "^0.14.6"
+        "symfony/var-dumper": "^8.1.1"
     },
     "prefer-stable": true,
     "autoload": {
