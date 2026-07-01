@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "1a8efa40bd9792aa9d89ba3783d35d66",
+    "content-hash": "540afcf94f6319c12079e60ddf4ca244",
     "packages": [
         {
             "name": "brick/math",
@@ -2473,16 +2473,16 @@
         },
         {
             "name": "mezzio/mezzio",
-            "version": "3.28.0",
+            "version": "3.28.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/mezzio/mezzio.git",
-                "reference": "b177a8e6b60219f6ccafacea69527663ce53c513"
+                "reference": "b67f3f4a090d444e94e1ef3c49085b8e313ad501"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/mezzio/mezzio/zipball/b177a8e6b60219f6ccafacea69527663ce53c513",
-                "reference": "b177a8e6b60219f6ccafacea69527663ce53c513",
+                "url": "https://api.github.com/repos/mezzio/mezzio/zipball/b67f3f4a090d444e94e1ef3c49085b8e313ad501",
+                "reference": "b67f3f4a090d444e94e1ef3c49085b8e313ad501",
                 "shasum": ""
             },
             "require": {
@@ -2575,7 +2575,7 @@
                     "type": "community_bridge"
                 }
             ],
-            "time": "2026-05-18T11:17:11+00:00"
+            "time": "2026-06-10T09:37:33+00:00"
         },
         {
             "name": "mezzio/mezzio-fastroute",

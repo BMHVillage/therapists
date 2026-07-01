@@ -58,7 +58,7 @@
         "laminas/laminas-escaper": "^2.18.0",
         "laminas/laminas-httphandlerrunner": "^2.13.0",
         "laminas/laminas-stratigility": "^4.3.1",
-        "mezzio/mezzio": "^3.28.0",
+        "mezzio/mezzio": "^3.28.1",
         "mezzio/mezzio-fastroute": "^3.14.0",
         "mezzio/mezzio-platesrenderer": "^2.14.0",
         "phpoffice/phpspreadsheet": "^5.7.0",
