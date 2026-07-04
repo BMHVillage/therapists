@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "564bcfcd3d870f5c13b8526264143a3a",
+    "content-hash": "7d4e7bf2130d1b9ebbb49b8ebe51f9c8",
     "packages": [
         {
             "name": "brick/math",
@@ -1406,7 +1406,7 @@
         },
         {
             "name": "illuminate/contracts",
-            "version": "v13.18.0",
+            "version": "v13.18.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/illuminate/contracts.git",
