@@ -50,7 +50,7 @@
         "ghostwriter/http": "^0.2.1",
         "ghostwriter/json": "^3.0.3",
         "guzzlehttp/guzzle": "^7.13.1",
-        "illuminate/collections": "^13.18.0",
+        "illuminate/collections": "^13.18.1",
         "illuminate/contracts": "^13.18.0",
         "illuminate/database": "^13.18.0",
         "illuminate/events": "^13.18.0",
