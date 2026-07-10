@@ -71,8 +71,7 @@
         "boundwize/structarmed": "^0.14.10",
         "ghostwriter/coding-standard": "dev-main",
         "mockery/mockery": "^1.6.12",
-        "phpunit/phpunit": "^13.2.2",
-        "symfony/var-dumper": "^8.1.1"
+        "phpunit/phpunit": "^13.2.2"
     },
     "prefer-stable": true,
     "autoload": {
