@@ -64,6 +64,7 @@
         "phpoffice/phpspreadsheet": "^5.9.0",
         "symfony/css-selector": "^8.1.0",
         "symfony/dom-crawler": "^8.1.1",
+        "symfony/dotenv": "^8.1.0",
         "vlucas/valitron": "^1.4.11"
     },
     "require-dev": {
@@ -79,6 +80,7 @@
             "Database\\": "database/"
         },
         "files": [
+            "src/constants.php",
             "src/functions.php"
         ]
     },
