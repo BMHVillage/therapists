@@ -31,4 +31,5 @@ return [
             'sslmode' => 'prefer',
         ],
     ],
+    'migrations' => 'migrations',
 ];
