@@ -2,11 +2,12 @@
 
 declare(strict_types=1);
 
-namespace BlackMentalHealthVillage\Therapists\Container\Illuminate\Events;
+namespace BlackMentalHealthVillage\Therapists\Container\Factory;
 
 use Ghostwriter\Container\Interface\ContainerInterface;
 use Ghostwriter\Container\Interface\Service\FactoryInterface;
 use Illuminate\Contracts\Container\Container;
+use Illuminate\Database\Eloquent\Model;
 use Illuminate\Events\Dispatcher;
 use Override;
 use Throwable;
@@ -16,12 +17,16 @@ use Throwable;
  *
  * @implements FactoryInterface<Dispatcher>
  */
-final readonly class DispatcherFactory implements FactoryInterface
+final readonly class IlluminateEventsDispatcherFactory implements FactoryInterface
 {
     /** @throws Throwable */
     #[Override]
     public function __invoke(ContainerInterface $container): Dispatcher
     {
-        return new Dispatcher($container->get(Container::class));
+        $dispatcher = new Dispatcher($container->get(Container::class));
+
+        Model::setEventDispatcher($dispatcher);
+
+        return $dispatcher;
     }
 }
