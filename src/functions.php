@@ -8,6 +8,7 @@ if (! \function_exists('base_path')) {
         return \implode(\DIRECTORY_SEPARATOR, [WORKSPACE_PATH, ...$segments]);
     }
 }
+
 if (! \function_exists('dotenv')) {
     function dotenv(string $key, mixed $default = null): mixed
     {
@@ -32,5 +33,26 @@ if (! \function_exists('database_path')) {
     function database_path(string ...$segments): string
     {
         return \base_path('database', ...$segments);
+    }
+}
+
+if (! \function_exists('resource_path')) {
+    function resource_path(string ...$segments): string
+    {
+        return \base_path('resources', ...$segments);
+    }
+}
+
+if (! \function_exists('storage_path')) {
+    function storage_path(string ...$segments): string
+    {
+        return \base_path('storage', ...$segments);
+    }
+}
+
+if (! \function_exists('template_path')) {
+    function template_path(string ...$segments): string
+    {
+        return \base_path('templates', ...$segments);
     }
 }
