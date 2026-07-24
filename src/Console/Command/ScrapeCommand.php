@@ -6,14 +6,14 @@ namespace BlackMentalHealthVillage\Therapists\Console\Command;
 
 use BlackMentalHealthVillage\Therapists\Model\Therapist;
 use GuzzleHttp\Client;
-use Illuminate\Database\Capsule\Manager;
 use Illuminate\Database\Schema\Blueprint;
 use Override;
 use Psr\Http\Message\ResponseInterface;
-use Symfony\Component\Console\Command\Command;
+use Symfony\Component\Console\Attribute\AsCommand;
 use Symfony\Component\Console\Input\InputInterface;
 use Symfony\Component\Console\Output\OutputInterface;
-use Symfony\Component\DomCrawler\Crawler;
+use Symfony\Component\DomCrawler\Crawler as SymfonyDomCrawler;
+
 use Throwable;
 
 use const PHP_EOL;
@@ -27,24 +27,21 @@ use function http_build_query;
 use function mb_trim;
 use function random_int;
 use function sleep;
+use function str_repeat;
 use function str_replace;
 
-/** @see ScrapeCommandTest */
-final class ScrapeCommand extends Command
+/**
+ * @see ScrapeCommandTest
+ */
+#[AsCommand(name: 'scrape', description: 'Find therapists in Tennessee from public sources.')]
+final class ScrapeCommand extends AbstractCommand
 {
-    /** @throws Throwable */
-    public function __construct(
-        private readonly Manager $manager,
-        private readonly Client $guzzle,
-    ) {
-        parent::__construct('scrape');
-        $this->setDescription('Find therapists in Tennessee from public sources.');
-    }
-
     /** @throws Throwable */
     #[Override]
     public function execute(InputInterface $input, OutputInterface $output): int
     {
+        $output->writeln([$this->getName(), str_repeat('=', 8), $this->getDescription()]);
+
         $schemaBuilder = $this->manager->getDatabaseManager()->getSchemaBuilder();
         if (! $schemaBuilder->hasTable('therapists')) {
             $schemaBuilder->create('therapists', static function (Blueprint $blueprint): void {
@@ -90,9 +87,9 @@ final class ScrapeCommand extends Command
                 exit(1);
             }
 
-            (new Crawler($body))
+            (new SymfonyDomCrawler($body))
                 ->filter('div.results-row')
-                ->each(static function (Crawler $crawler): void {
+                ->each(static function (SymfonyDomCrawler $crawler): void {
                     $links = $crawler->filter('a')->links();
 
                     if (! array_key_exists(0, $links)) {
