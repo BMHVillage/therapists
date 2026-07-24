@@ -1625,16 +1625,16 @@
         },
         {
             "name": "illuminate/pipeline",
-            "version": "v13.20.0",
+            "version": "v13.21.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/illuminate/pipeline.git",
-                "reference": "74e76382a3fb39f34469681685d6dd551db0d0d2"
+                "reference": "00b08c7fb38a00b31d591cecc327864ff930e8dc"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/illuminate/pipeline/zipball/74e76382a3fb39f34469681685d6dd551db0d0d2",
-                "reference": "74e76382a3fb39f34469681685d6dd551db0d0d2",
+                "url": "https://api.github.com/repos/illuminate/pipeline/zipball/00b08c7fb38a00b31d591cecc327864ff930e8dc",
+                "reference": "00b08c7fb38a00b31d591cecc327864ff930e8dc",
                 "shasum": ""
             },
             "require": {
@@ -1673,7 +1673,7 @@
                 "issues": "https://github.com/laravel/framework/issues",
                 "source": "https://github.com/laravel/framework"
             },
-            "time": "2026-02-25T16:07:55+00:00"
+            "time": "2026-07-16T14:40:57+00:00"
         },
         {
             "name": "illuminate/reflection",
