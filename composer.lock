@@ -1671,7 +1671,7 @@
         },
         {
             "name": "illuminate/reflection",
-            "version": "v13.22.0",
+            "version": "v13.23.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/illuminate/reflection.git",
