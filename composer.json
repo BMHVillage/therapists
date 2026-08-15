@@ -49,7 +49,7 @@
         "ghostwriter/filesystem": "^0.2.1",
         "ghostwriter/http": "^0.2.2",
         "ghostwriter/json": "^3.0.3",
-        "illuminate/collections": "^13.23.0",
+        "illuminate/collections": "^13.25.0",
         "illuminate/contracts": "^13.25.0",
         "illuminate/database": "^13.23.0",
         "illuminate/events": "^13.23.0",
