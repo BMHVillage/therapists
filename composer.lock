@@ -5398,16 +5398,15 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/ghostwriter/coding-standard.git",
-                "reference": "48545d4aaecba6bd9bf4dcb16a7a94d4ad268e6a"
+                "reference": "6cdf2f284da6eb4986911674b96fa0dc960510e5"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/ghostwriter/coding-standard/zipball/48545d4aaecba6bd9bf4dcb16a7a94d4ad268e6a",
-                "reference": "48545d4aaecba6bd9bf4dcb16a7a94d4ad268e6a",
+                "url": "https://api.github.com/repos/ghostwriter/coding-standard/zipball/6cdf2f284da6eb4986911674b96fa0dc960510e5",
+                "reference": "6cdf2f284da6eb4986911674b96fa0dc960510e5",
                 "shasum": ""
             },
             "require": {
-                "ext-apcu": "*",
                 "ext-bcmath": "*",
                 "ext-ctype": "*",
                 "ext-curl": "*",
@@ -5506,7 +5505,7 @@
                     "type": "paypal"
                 }
             ],
-            "time": "2026-08-17T00:40:12+00:00"
+            "time": "2026-08-22T18:39:43+00:00"
         },
         {
             "name": "hamcrest/hamcrest-php",
